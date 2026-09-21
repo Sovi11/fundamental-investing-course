@@ -1,0 +1,17 @@
+name: tools-tests
+on:
+  push:
+    paths: ["tools/**", ".github/workflows/tests.yml"]
+  pull_request:
+    paths: ["tools/**"]
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas numpy pytest
+      - run: python tools/running_example/generate.py && python tools/running_example/valuation.py
+      - run: python -m pytest tools/tests -q

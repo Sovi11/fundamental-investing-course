@@ -1,0 +1,15 @@
+# Python >= 3.11. Install from the repository root:
+#   pip install -r tools/requirements.txt
+#
+# Core (everything offline: running examples, ratios, valuation, forensics, model, tests)
+pandas>=2.1
+numpy>=1.24
+pytest>=7.0
+#
+# Network data for real Indian companies (fi.data.fetch_statements / fetch_price_info).
+# Disable any VPN before running - Yahoo Finance endpoints are often blocked by VPNs.
+yfinance>=0.2.54
+# OpenBB Platform 4.x (optional but preferred route; its default install includes the yfinance
+# provider). It is a large install - comment it out if you only need the offline tools;
+# fi.data falls back to yfinance automatically.
+openbb>=4.3

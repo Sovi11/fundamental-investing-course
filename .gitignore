@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+site/
+*.db
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.ruff_cache/
