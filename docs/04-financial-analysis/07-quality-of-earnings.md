@@ -131,7 +131,7 @@ the quantitative inputs (Beneish M, Piotroski F, accruals, cash yield) for the f
 
 | # | Item | Test / threshold | FY24 | FY25 | FY26 |
 |:--|:--|:--|:--:|:--:|:--:|
-| 1 | CFO / PAT (3-yr avg) | 0: > 90% · 1: 75–90% · 2: < 75% | 0 (115%) | 1 (90%) | 2 (78% → FY26 alone 72%) |
+| 1 | CFO / PAT (3-yr avg) | 0: > 90% · 1: 75–90% · 2: < 75% | 0 (112%) | 1 (87%) | 2 (78%; FY26 alone 72%) |
 | 2 | Cash-flow accruals ratio | 0: < 2% · 1: 2–5% · 2: > 5% | 0 | 1 (3.7%) | 1 (2.3%) |
 | 3 | Receivables growth vs revenue growth | 0: ≤ · 1: up to 1.5x · 2: > 1.5x for 2+ years | 2 (32% vs 15%) | 2 (40% vs 16%) | 2 (29% vs 12%) |
 | 4 | Beneish M-score | 0: < −2.2 · 1: −2.2 to −1.78 · 2: > −1.78 | 0 (−2.32) | 1 (−1.98) | 1 (−2.14) |
