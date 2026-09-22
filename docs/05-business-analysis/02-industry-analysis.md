@@ -90,7 +90,7 @@ Describe structure with the **number of meaningful competitors and the share of 
 
 ```python
 shares = {'A': 50, 'B': 18, 'C': 12, 'D': 8, 'others': 12}   # hypothetical paints-like structure
-hhi = sum(s ** 2 for k, s in shares.items() if k != 'others') + 12 ** 2 / 6 * 6  # treat 'others' as six 2% firms
+hhi = sum(s ** 2 for k, s in shares.items() if k != 'others') + 6 * 2 ** 2  # treat 'others' as six 2% firms
 print(hhi)   # 2500 + 324 + 144 + 64 + 24 = 3056 → concentrated
 ```
 
