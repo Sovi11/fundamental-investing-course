@@ -38,7 +38,7 @@ primary valuation disclosure).
 |:--|:--|:--|
 | **Embedded value (EV)** | Adjusted net worth + value of in-force business (PV of future profits from policies already sold, after cost of capital) | The economic book value; what the existing book is worth if no new policy were ever sold |
 | **Value of new business (VNB)** | PV of expected future profits from policies sold *this year* | The value created by a year's selling — the insurer's "earnings" |
-| **VNB margin** | VNB ÷ annualised premium equivalent (APE = 100% of regular premium + 10% of single premium) | Profitability of new sales; driven by product mix and expense efficiency (Indian listed insurers have reported VNB margins roughly in the 20–30% range in recent years — verify current disclosures) |
+| **VNB margin** | VNB ÷ annualised premium equivalent (APE = 100% of regular premium + 10% of single premium) | Profitability of new sales; driven by product mix and expense efficiency (FY26 VNB margins: SBI Life 27.5%, ICICI Prudential 24.7%, HDFC Life 24.2%, LIC 21.2% — [Business Standard, Jun-2026](https://www.business-standard.com/amp/finance/insurance/protection-products-drive-near-double-digit-vnb-growth-for-life-insurers-126062600934_1.html); verify current disclosures) |
 | **APE growth** | Growth in new-business volume | The volume driver |
 | **Persistency** (13th, 25th, 37th, 61st month) | Share of policies still in force after 1, 2, 3, 5 years | Quality of sales; lapses destroy VNB that was already booked |
 | **Product mix** | ULIP (unit-linked; low margin, market-sensitive) / participating / non-participating savings (high margin, interest-rate risk) / protection (highest margin) / annuities | Margin and risk profile |
@@ -128,7 +128,7 @@ bet on the equity market with a regulator holding a call on the fee rate.
 
 | Business | Revenue driver | Take rate | Cost structure | Moat | Regulatory exposure |
 |:--|:--|:--|:--|:--|:--|
-| **Stock exchanges** (NSE — unlisted as of 2026 but heading to IPO, verify; BSE; MCX for commodities) | Traded volumes × transaction fee; listing fees; data; co-location; clearing | Basis points of turnover; per-lot in options | Mostly fixed (technology); huge operating leverage | Liquidity network effect + licence | Transaction-charge caps; product rules (weekly expiries, lot sizes); interoperability |
+| **Stock exchanges** (NSE — IPO of ₹22,562 Cr in September 2026, listing expected 24-Sep-2026; BSE; MCX for commodities) | Traded volumes × transaction fee; listing fees; data; co-location; clearing | Basis points of turnover; per-lot in options | Mostly fixed (technology); huge operating leverage | Liquidity network effect + licence | Transaction-charge caps; product rules (weekly expiries, lot sizes); interoperability |
 | **Depositories** (CDSL, NSDL) | Number of demat accounts (annual issuer charges, account maintenance) + transaction charges | Small fixed fees per account/transaction | Fixed | Duopoly licence + network | Fee caps; account-opening cycles |
 | **Clearing corporations** | Clearing fees; margin float income | | | Licence | Margin rules |
 | **Registrars (RTAs)** (CAMS, KFin) | AUM of mutual funds serviced × bps; folio counts; IPO/corporate registry | Small bps | Fixed | Duopoly with switching costs | AMC fee pressure flows through |
@@ -190,9 +190,11 @@ AUM growth with AMC-fee-pressure pass-through.
       VNB margins across the industry within a quarter (verify the specifics and subsequent margin trends).
     - Bank-owned insurers and AMCs (SBI, HDFC, ICICI groups) depend on the parent bank's distribution; check the
       bancassurance share and any regulatory push for "open architecture".
-    - NSE's IPO (long delayed by regulatory issues; verify its status in 2026) would create the largest listed
-      exchange; until then, exchange analysis in India is BSE and MCX — both smaller, more product-concentrated and
-      hence more regulatorily sensitive.
+    - NSE's long-delayed IPO finally happened in September 2026 (₹22,562 Cr, subscribed 5.7x, allotment 22-Sep,
+      listing expected 24-Sep-2026 — [Kotak Neo](https://www.kotakneo.com/ipo/nse-ipo/)), creating by far the
+      largest listed exchange; its first annual report will be the reference document for exchange economics in
+      India. Until then, listed exchange analysis meant BSE and MCX — smaller, more product-concentrated and hence
+      more regulatorily sensitive.
 
 !!! warning "Common mistakes"
     - Valuing a growing life insurer on statutory P/E (it looks absurdly expensive) or a shrinking one as cheap.
