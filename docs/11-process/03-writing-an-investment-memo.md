@@ -133,9 +133,10 @@ new pledge. Adjustments: EPS ₹15.1 → ₹13.6 for provisioning; bear probabil
 unchanged. No evidence of fabrication.
 
 **Recommendation and sizing.** Watch. Entry trigger ₹260 (expected return +18%, upside/downside 3.0 on the
-reference scenarios) *with* receivable days < 85; at that price and evidence, size 4% (half-Kelly ≈ 6–7%, capped by
-a 3% max-loss on a −35% bear at ~8.5%, then halved for governance Amber). Kill: pledge > 15%; auditor qualification;
-CFO exit.
+reference scenarios) *with* receivable days < 85; at that price and evidence, size 4%: quarter-Kelly on a scenario
+tree that includes a 10–15% governance-jump tail gives ~5–12%; the 3% max-loss rule on a −35% bear gives ~8.5%;
+take the lower and halve it for the Amber forensic rating ([11.4](04-position-sizing-and-portfolio-construction.md)).
+Kill: pledge > 15%; auditor qualification; CFO exit.
 
 That is the whole memo. Note what it does *not* contain: a target price to the rupee, a paragraph about India's
 irrigation potential, or a recommendation the numbers do not support.
