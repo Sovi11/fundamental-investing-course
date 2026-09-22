@@ -17,7 +17,7 @@
 | **Decision date** | Close of **31 December 2019**, share price **€107.50**. You may use only what was public by then: the FY2018 annual report (April 2019), the H1 and Q3 2019 statements, Wirecard's ad-hoc announcements, the Financial Times' reporting (2015–Oct 2019), the Rajah & Tann report summary (March 2019), the SoftBank and bond announcements, and the 21-Oct-2019 announcement that KPMG had been commissioned to run a special investigation |
 | **Sector** | Payments: online acquiring, issuing, payment processing and risk management; a licensed bank (Wirecard Bank AG). Germany, Frankfurt: WDI; DAX member from 24-Sep-2018 |
 | **Themes** | Cash that cannot be verified · the interest-income test · third-party partners and "where does the profit come from?" · adjusted cash flow · acquisitions at prices that make no sense · a company that fights its critics · auditor and regulator failure · short-seller vindication · position sizing under fraud risk |
-| **Modules this case reinforces** | [02.5 Cash-flow statement](../../02-accounting/05-the-cash-flow-statement.md) · [02.8 Group accounts & related parties](../../02-accounting/08-deeper-cuts-group-accounts-and-other.md) · [03.3 Notes to accounts](../../03-reading-filings/03-notes-to-accounts.md) · [04.7 Quality of earnings](../../04-financial-analysis/07-quality-of-earnings.md) · [09.1 Forensic mindset](../../09-forensics/01-the-forensic-mindset.md) · [09.2 Revenue & receivables red flags](../../09-forensics/02-revenue-and-receivable-red-flags.md) · [09.4 Cash-flow & balance-sheet red flags](../../09-forensics/04-cash-flow-and-balance-sheet-red-flags.md) · [09.5 Governance red flags](../../09-forensics/05-governance-red-flags.md) · [09.7 Short-seller reports](../../09-forensics/07-reading-short-seller-reports.md) · [11.4 Position sizing](../../11-process/04-position-sizing-and-portfolio-construction.md) |
+| **Modules this case reinforces** | [02.5 Cash-flow statement](../../02-accounting/05-the-cash-flow-statement.md) · [02.8 Group accounts & related parties](../../02-accounting/08-deeper-cuts-group-accounts-and-other.md) · [03.3 Notes to accounts](../../03-reading-filings/03-notes-to-accounts.md) · [04.7 Quality of earnings](../../04-financial-analysis/07-quality-of-earnings.md) · [09.1 Why and how numbers lie](../../09-forensics/01-why-and-how-numbers-lie.md) · [09.2 Revenue red flags](../../09-forensics/02-revenue-red-flags.md) · [09.4 Cash-flow games](../../09-forensics/04-cash-flow-games.md) · [09.5 Governance red flags (India)](../../09-forensics/05-governance-red-flags-india.md) · [09.1 Short-seller reports and the forensic mindset](../../09-forensics/01-why-and-how-numbers-lie.md) · [11.4 Position sizing](../../11-process/04-position-sizing-and-portfolio-construction.md) |
 | **Difficulty** | Advanced (★★★★☆). Do it after Module 09; pairs with [G4 Enron](04-enron-2001.md) and [I1 Satyam](../india/01-satyam-2009.md) |
 | **Time** | ~3 hours (about 75 minutes on sections 1–3 before you read on) |
 
@@ -261,7 +261,7 @@ Answer these **before reading section 4**, using only the information above. Sho
    access at all levels of the Group" *not* guarantee? What would a management determined to obstruct do, and what
    sentence in KPMG's eventual report would tell you whether they had? Name the three documents KPMG would need to
    verify the escrow cash, and who controls each.
-8. **(Red flags — score it.)** Run the Module 09 forensic checklist ([09.8](../../09-forensics/08-forensic-checklist-and-scoring.md))
+8. **(Red flags — score it.)** Run the Module 09 forensic checklist ([09.7](../../09-forensics/07-the-forensic-checklist.md))
    on Wirecard at end-2019. Score each item, list the top five, and state which *single* item you would have tried
    to verify independently and how (e.g., writing to OCBC/BDO/BPI; visiting Al Alam's office; pulling PayEasy's
    Philippine SEC filings; checking whether the escrow trustee was a lawyer or a bank).
@@ -361,7 +361,7 @@ SoftBank's money [[17]](#sources).
 1. **Cash is the easiest number to fake and the easiest to test.** A balance earns interest; the yield on reported
    cash should match where the cash is said to be. A large cash pile that earns nothing, or that sits with a
    third-party trustee rather than in the company's own bank, is the first item to verify.
-   → [09.4 Cash-flow & balance-sheet red flags](../../09-forensics/04-cash-flow-and-balance-sheet-red-flags.md)
+   → [09.4 Cash-flow games](../../09-forensics/04-cash-flow-games.md)
 2. **Cash-rich companies do not borrow.** When a company reports surplus cash and keeps raising debt, one of the two
    numbers is wrong. Build the sources-and-uses table.
    → [04.7 Quality of earnings](../../04-financial-analysis/07-quality-of-earnings.md)
@@ -369,7 +369,7 @@ SoftBank's money [[17]](#sources).
    licences for, whose money a trustee holds", the profit has not been demonstrated. Segment disclosures that hide
    the profit engine are a governance flag as well as an accounting one.
    → [03.3 Notes to accounts](../../03-reading-filings/03-notes-to-accounts.md) ·
-   [09.2 Revenue & receivables red flags](../../09-forensics/02-revenue-and-receivable-red-flags.md)
+   [09.2 Revenue red flags](../../09-forensics/02-revenue-red-flags.md)
 4. **A fraud that fakes cash also fakes cash flow.** CFO/EBITDA of 90% proves nothing when the "cash" received sits in
    an account the company cannot spend from. The cash-flow statement is derived from the balance sheet; test the
    balance.
@@ -381,12 +381,12 @@ SoftBank's money [[17]](#sources).
 6. **How a company treats its critics is data.** Lawsuits, surveillance, "rogue employee" framings and regulator
    complaints against journalists are the behaviour of companies with something to hide more often than of companies
    with nothing to hide.
-   → [09.5 Governance red flags](../../09-forensics/05-governance-red-flags.md) ·
-   [09.7 Reading short-seller reports](../../09-forensics/07-reading-short-seller-reports.md)
+   → [09.5 Governance red flags (India)](../../09-forensics/05-governance-red-flags-india.md) ·
+   [09.1 Reading short-seller reports](../../09-forensics/01-why-and-how-numbers-lie.md)
 7. **Gatekeepers are not verification.** Auditors accept confirmations; regulators protect markets, not investors;
    rating agencies rate the story; strategic investors may not be risking their own money. Ask what each gatekeeper
    actually did, not what its presence implies.
-   → [09.6 Auditors, ratings and gatekeepers](../../09-forensics/06-auditor-and-gatekeeper-signals.md)
+   → [09.5 Governance red flags (auditors and gatekeepers)](../../09-forensics/05-governance-red-flags-india.md)
 8. **Size for the tail you cannot hedge.** A 30% probability of a zero is not a reason to avoid a 40% upside — it is
    a reason to size at a few per cent and to define what would raise or lower that probability (the KPMG
    report's wording; the banks' confirmations).
@@ -394,7 +394,7 @@ SoftBank's money [[17]](#sources).
    [06.8 Margin of safety](../../06-valuation/08-margin-of-safety-and-expected-value.md)
 9. **Special audits are only as good as the access.** "Unrestricted access" is a promise by the people under
    investigation. The test is whether the auditor gets to the third parties and the banks — and the report will say.
-   → [09.1 The forensic mindset](../../09-forensics/01-the-forensic-mindset.md)
+   → [09.1 The forensic mindset](../../09-forensics/01-why-and-how-numbers-lie.md)
 
 ---
 
