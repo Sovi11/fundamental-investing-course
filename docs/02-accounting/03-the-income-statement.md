@@ -292,17 +292,17 @@ To see how the same structure looks without materials, take **Meru Software Serv
 | Depreciation & amortisation | 72.0 | laptops, ROU offices |
 | Finance costs | 9.6 | lease interest only; no debt |
 | Exceptional items | (30.0) | impairment of goodwill on a 2023 acquisition |
-| Tax | 130.5 | effective 24.5% — one SEZ unit still partly exempt |
+| Tax | 107.9 | effective 24.5% — one SEZ unit still partly exempt |
 
 ```python
 rev, emp, oth, da, oi, fin, exc = 2400.0, 1560.0, 384.0, 72.0, 96.0, 9.6, -30.0
 ebitda = rev - emp - oth                   # 456.0  (19.0%)
 ebit = ebitda - da                         # 384.0  (16.0%)
 pbt = ebit + oi - fin + exc                # 440.4
-tax = 130.5; pat = pbt - tax               # 309.9
-adj_pat = pat + 30.0 * (1 - 0.245)         # 332.55  (impairment is non-deductible here; assume same ETR for simplicity)
+tax = 107.9; pat = pbt - tax               # 332.5
+adj_pat = pat + 30.0 * (1 - 0.245)         # 355.15  (add back the impairment net of tax at the same ETR, for simplicity)
 print(ebitda, ebit, pbt, pat, round(adj_pat, 1), round(oi / pbt, 3))
-# 456.0 384.0 440.4 309.9 332.6 0.218
+# 456.0 384.0 440.4 332.5 355.2 0.218
 ```
 
 Three observations you should be able to make instantly: (1) other income is **22% of PBT** — a fifth of "profit"
