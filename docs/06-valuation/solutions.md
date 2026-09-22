@@ -67,7 +67,7 @@ long high-growth phase (the DCF's explicit period), a lower cost of equity, or b
 support; and Kaveri's lower ROCE, leverage and receivables risk justify a discount to the group in any case.
 Both can be true — the DCF is the anchor, the multiples the cross-check.
 
-**E06.19** `reverse_dcf(300, ...)` → ≈ **10.3%**; at ₹450 → ≈ **16.5%** (run the code — values depend on the base
+**E06.19** `reverse_dcf(300, ...)` → ≈ **10.1%**; at ₹450 → ≈ **16.3%** (run the code — values depend on the base
 drivers held fixed). ₹300 requires roughly the base path's growth; ₹450 requires a decade of growth above
 anything in Kaveri's history.
 
