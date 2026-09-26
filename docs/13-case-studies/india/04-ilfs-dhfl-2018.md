@@ -1,11 +1,11 @@
 # I4 · IL&FS and DHFL (2018–2019): borrowing short, lending long, rated AAA
 
-> **The hook.** In March 2018 Infrastructure Leasing & Financial Services (IL&FS), the holding company of a
+> **The hook.** Until mid-August 2018 Infrastructure Leasing & Financial Services (IL&FS), the holding company of a
 > 300-entity infrastructure group owned by LIC, ORIX, ADIA, HDFC, SBI and Central Bank of India, was rated AAA by every
 > agency that rated it, even though its consolidated FY2018 accounts showed a ₹1,887 crore loss and leverage of 11×.
-> In August 2018 the agencies moved it one notch, to AA+. Within five weeks it had missed a loan repayment to SIDBI,
-> defaulted on commercial paper and been rated D. The government then replaced the board, which counted ₹94,216 crore
-> of fund-based group debt. On 21 September a mutual fund sold commercial paper of Dewan Housing Finance (DHFL), a
+> Then the agencies moved it one notch, to AA+. Within five weeks it had missed a loan repayment to SIDBI,
+> defaulted on commercial paper and been rated D. The government then replaced the board, and the new board counted
+> ₹94,216 crore of fund-based group debt. On 21 September a mutual fund sold commercial paper of Dewan Housing Finance (DHFL), a
 > AAA-rated mortgage lender with 0.96% gross NPAs, at an 11% yield, and DHFL's shares fell 42% in a day. Nine months
 > later DHFL defaulted. Its shareholders got nothing, and most of its creditors recovered about 46%. In both
 > failures the reported bad loans were not what started the collapse. Each company needed the short-term debt market
@@ -15,7 +15,7 @@
 | | |
 |:--|:--|
 | **Period** | FY2009–FY2018 audited financials (set-up) · **31 August 2018** (decision A) · **24 September 2018** (decision B) · September 2018–September 2026 (outcome) |
-| **Decision dates** | **A:** close of **31 August 2018**, DHFL **₹666.80** (BSE), market cap ≈ **₹20,900 crore**; your debt fund holds IL&FS group CP rated AA+ (on watch). You may use only what was public by then: IL&FS's FY2018 figures as tabulated by the rating agencies, the August downgrades and IL&FS's August liquidity plan, ITNL's accounts, DHFL's FY2018 annual report, CRISIL's May 2018 rationale and DHFL's Q1 FY2019 results. **B:** close of **24 September 2018**, DHFL **₹393.00**, market cap ≈ **₹12,300 crore**; you may add the IL&FS defaults of 4–17 September, the fund markdowns, the DSP sale of 21 September and DHFL's statements of 21–22 September |
+| **Decision dates** | **A:** close of **31 August 2018**, DHFL **₹666.80** (BSE), market cap ≈ **₹20,900 crore**; your debt fund holds IL&FS group CP rated AA+ (on watch). You may use only what was public by then: IL&FS's FY2018 figures as tabulated by the rating agencies, the August downgrades and IL&FS's August liquidity plan, ITNL's accounts, DHFL's FY2018 annual report, CRISIL's May 2018 rationale and DHFL's Q1 FY2019 results. **B:** close of **24 September 2018**, DHFL **₹393.00**, market cap ≈ **₹12,300 crore**; you may add the IL&FS defaults of 4–17 September, the fund markdowns, the DSP sale of 21 September and DHFL's statements of 21–24 September |
 | **Sector** | IL&FS: core investment company (unlisted parent; listed arms include IL&FS Transportation Networks, NSE: IL&FSTRANS). DHFL: housing finance company, NSE: DHFL (delisted 2021). Both fiscal years end 31 March |
 | **Themes** | Asset–liability mismatch · commercial-paper rollover risk · holding-company double leverage · the NHB/RBI regulatory perimeter · why ratings lag · debt-fund contagion and side-pocketing · spread widening across a sector · governance and alleged fund diversion · resolution under the NCLT and the IBC |
 | **Modules this case reinforces** | [04.5 Leverage, solvency & liquidity](../../04-financial-analysis/05-leverage-solvency-liquidity.md) · [07.1 Banks & NBFCs](../../07-special-valuation/01-banks-and-nbfcs.md) · [08.1 Banks & lending](../../08-sectors/01-banks-and-lending.md) · [02.8 Group accounts](../../02-accounting/08-deeper-cuts-group-accounts-and-other.md) · [03.1 The disclosure universe (ratings)](../../03-reading-filings/01-the-disclosure-universe.md) · [03.3 Notes to accounts](../../03-reading-filings/03-notes-to-accounts.md) · [07.6 Infra & utilities](../../07-special-valuation/06-real-estate-infra-utilities-telecom.md) · [09.5 Governance red flags (India)](../../09-forensics/05-governance-red-flags-india.md) · [12.2 Market cycles & sentiment](../../12-macro-special-sits/02-market-cycles-and-sentiment.md) · [11.4 Position sizing](../../11-process/04-position-sizing-and-portfolio-construction.md) · [11.7 Fundamentals meets derivatives](../../11-process/07-fundamentals-meets-derivatives.md) |
@@ -27,10 +27,12 @@
     the FY2018 annual report. Q1 FY2019 figures were the first under Ind AS and are not strictly comparable. "Loan
     book" is on-balance-sheet loans. "AUM" adds loans assigned or securitised off the balance sheet. DHFL's share
     figures reflect the 1:1 bonus of FY2016 (the company's own restated history). Share prices are BSE closes from
-    the exchange's price history [[7]](#sources), which differ from NSE closes by under ₹1 (NSE: ₹610.55 on 19
-    September and ₹350.55 on 21 September 2018 [[14]](#sources)). No split or bonus happened after 2016. IL&FS was
-    unlisted. Its FY2018 standalone and consolidated figures are taken from the rating agencies' rationales of 17–18
-    September 2018 [[1]](#sources), which tabulate the same audited FY2018 accounts that the August reviews used.
+    the exchange's price history [[7]](#sources), which differ from NSE closes by ₹1 or less (CARE, for example,
+    quotes ₹610.55 and ₹350.55 for the closes before and on 21 September 2018 [[14]](#sources), against BSE's ₹610.60
+    and ₹351.55). No split or bonus happened after 2016. IL&FS was unlisted. Its FY2018 standalone and consolidated
+    figures are taken from the rating agencies' rationales of 17–18 September 2018 [[1]](#sources), which tabulate the
+    audited FY2018 accounts. Those rationales post-date decision A; the case assumes the same annual figures were
+    available to an analyst in August, when the agencies reviewed the company.
     Peer price moves are NSE daily data from yfinance. Bracketed numbers point to the [Sources](#sources).
 
 ---
@@ -112,7 +114,7 @@ and the margin up to 3.44% [[6]](#sources).
 **The doubters.** CRISIL, while keeping DHFL at A1+, called its capital "subdued". It put adjusted gearing (debt
 including securitised loans, divided by net worth) at about **12.7×, higher than peers**, called RoA of 1.2%
 "modest", and flagged non-housing asset quality [[5]](#sources). Tier-I capital had fallen from 14.75% to 11.52% in a
-year [[4]](#sources). CRISIL's reassurances were that DHFL had over ₹11,000 crore of liquid assets plus ₹6,978 crore of
+year [[4]](#sources) [[5]](#sources). CRISIL's reassurances were that DHFL had over ₹11,000 crore of liquid assets plus ₹6,978 crore of
 undrawn bank lines, a policy of keeping about ₹10,000 crore of liquidity, and "no negative cumulative mismatches" in
 short-term buckets at December 2017 [[5]](#sources).
 
@@ -134,8 +136,10 @@ short-term buckets at December 2017 [[5]](#sources).
   each. None of them had defaulted on anything.
 - **21–22 September.** Wadhawan said DHFL had no exposure to IL&FS and that no lender had recalled a loan. He said CP
   was "less than 5 per cent" of total liabilities, **₹7,500 crore against over ₹1 lakh crore**, spread over six
-  months, and that the company held about ₹10,000 crore of liquidity [[9]](#sources).
-- **24 September.** The stock recovered 11.8% to close at ₹393.00 [[7]](#sources).
+  months, and that surplus cash was kept in liquid funds [[9]](#sources).
+- **24 September.** DHFL told the exchanges it had never delayed a repayment, had repaid ₹575 crore of CP on 21
+  September, and held "approximately Rs 10,000 crore" of liquidity; CARE and ICRA had reaffirmed its ratings
+  [[26]](#sources). The stock recovered 11.8% to close at ₹393.00 [[7]](#sources).
 
 ### 1.4 The prices on the decision dates
 
@@ -254,8 +258,8 @@ liabilities do.
    monitors the mismatch; the company raised "longer tenor borrowings" and assigned long-tenor loans to banks.
    Project loans are presented as a source of "better yields" and retail cross-sell, made safer by RERA escrow rules
    [[4]](#sources).
-3. **DHFL, 21–22 September 2018.** No IL&FS exposure, no loan recalls, CP of ₹7,500 crore under 5% of liabilities,
-   about ₹10,000 crore of liquidity, surplus cash kept in liquid mutual funds [[9]](#sources).
+3. **DHFL, 21–24 September 2018.** No IL&FS exposure, no loan recalls, CP of ₹7,500 crore under 5% of liabilities,
+   about ₹10,000 crore of liquidity, surplus cash kept in liquid mutual funds [[9]](#sources) [[26]](#sources).
 
 ---
 
@@ -358,7 +362,8 @@ Early redeemers can then no longer leave the loss to those who stay [[23]](#sour
 **The rating agencies.** In December 2019 SEBI fined ICRA, CARE and India Ratings ₹25 lakh each over their IL&FS and
 IFIN ratings, citing "lethargic indifference". In September 2020, after a review, it raised each fine to ₹1 crore. On
 17 September 2018 the rated amounts outstanding were ₹11,725 crore (ICRA), ₹16,270 crore (India Ratings) and ₹20,942
-crore (CARE) [[22]](#sources). This case does not verify the outcome of any appeal.
+crore (CARE) [[22]](#sources). ICRA paid the higher penalty under protest and appealed to the Securities Appellate
+Tribunal [[29]](#sources); this case does not verify the outcome of that or any other appeal.
 
 **DHFL: a slow run (September 2018–June 2019).** DHFL cut disbursements in Q3 FY2019. It raised cash through
 securitisations and assignments of loans, NCDs, CP, deposits and bank loans [[14]](#sources), and said it had repaid
@@ -368,7 +373,8 @@ CARE's definition [[14]](#sources).
 
 On 29 January 2019 Cobrapost alleged that DHFL's promoters had siphoned more than ₹31,000 crore through loans to shell
 companies. DHFL rejected the claim as a "mischievous misadventure" made with mala fide intent [[13]](#sources). The
-shares closed at ₹111.20 on 1 February. CARE cut DHFL from AAA to AA+ in early February and to AA− on 6 March. At that
+shares closed at ₹111.45 on 1 February [[7]](#sources). CARE cut DHFL from AAA to AA+ on 3 February and to AA− on
+6 March [[14]](#sources). At that
 point DHFL's liquidity statement showed EMI inflows of about ₹6,600 crore against outflows of ₹10,340 crore for
 March–May 2019, a gap of about ₹3,750 crore against about ₹4,700 crore of liquid assets. The planned fixes were
 ₹2,000 crore of new equity, a strategic investor, selling the Aadhar Housing stake to Blackstone and selling builder
@@ -377,7 +383,7 @@ its CP to D the next day, and the shares closed at ₹93.90 on 6 June [[15]](#so
 
 **Supersession, the IBC and Piramal (2019–2021).** On 20 November 2019 the RBI superseded DHFL's board and appointed
 R. Subramaniakumar as administrator. Its petition under section 227 of the Insolvency and Bankruptcy Code (IBC) made
-DHFL, in early December, the first financial-services company admitted under the code [[16]](#sources). In August
+DHFL, on 2 December 2019, the first financial-services company admitted under the code [[16]](#sources). In August
 2020 the administrator applied to the NCLT against Kapil and Dheeraj Wadhawan and 85 others. The application was
 based on Grant Thornton's finding of transactions from FY2007 to FY2019, including loans to the so-called "Bandra
 Books" entities, that the auditor classed as fraudulent. Their monetary impact was ₹14,046 crore, plus ₹3,348 crore of
@@ -393,14 +399,15 @@ firm [[17]](#sources).
 **The criminal cases (to September 2026).** The CBI's bank-fraud case against the Wadhawans, on a complaint from
 Union Bank of India, alleges a loss of about ₹34,000 crore. The brothers had been in custody since April 2020. In
 December 2025 the Supreme Court granted them bail in that case. It noted that charges had not yet been framed and
-that the trial was unlikely to end within two to three years [[20]](#sources). The allegations are unproven, and I
-found no verdict as of September 2026.
+that the trial was unlikely to end within two to three years [[20]](#sources). The allegations are unproven, and no
+verdict had been reported as of September 2026.
 
 The **Yes Bank link** is also only alleged. A CBI charge sheet of June 2020 alleges that Yes Bank put ₹3,700 crore
 into DHFL's short-term debentures. It alleges that in return a DHFL-linked company made a ₹600 crore loan to DoIT
 Urban Ventures, a company of founder Rana Kapoor's daughters. The charge sheet names Kapoor, his daughter Roshni and
 the Wadhawans [[21]](#sources). [I5 Yes Bank](05-yes-bank-2018-2020.md) tells the story from the bank's side. For
-DHFL's creditors the lesson is uncomfortable: not every buyer of the company's paper in 2018 was simply investing.
+DHFL's creditors the lesson is uncomfortable: if the charge sheet is proved, not every buyer of the company's paper in
+2018 was simply investing.
 
 **IL&FS in 2026: still resolving.** The new board set a debt-resolution target of ₹61,000 crore, 61.38% of the ₹99,377
 crore of external debt. It has worked through asset sales, transfers of road SPVs to the Roadstar InvIT, settlements
@@ -411,8 +418,11 @@ of terminated concessions and interim distributions. Its July 2026 affidavit rep
 - ₹8,347 crore from auto-debits, debt service by Green entities and released guarantees;
 - ₹16,013 crore from interim distributions to external creditors.
 
-205 of the 302 entities have been resolved. The outcome of proceedings against the former IL&FS management was
-beyond what this case could verify, so do not assume one.
+By September 2025 the board reported 202 of the 302 entities fully resolved, applications for 36 more pending
+approval and 62 not yet filed [[27]](#sources). The former chairman, Ravi Parthasarathy, accused of being at the
+centre of the alleged fraud and arrested by a police economic offences wing in 2021, died in April 2022 [[28]](#sources).
+The outcome of proceedings against other former IL&FS managers was beyond what this case could verify, so do not
+assume one.
 
 ---
 
@@ -428,8 +438,8 @@ beyond what this case could verify, so do not assume one.
 | **The price at B:** 1.4× book and about 7× annualised earnings, with peers down 15–34% intraday | Equity worth zero, while better-funded peers recovered |
 
 !!! success "The strongest bull case that existed at the time (DHFL at ₹393)"
-    DHFL was a 34-year-old retail mortgage lender. Its gross NPAs were 0.93%, its average ticket ₹15 lakh, and banks
-    could buy its loans through assignments. It had no IL&FS exposure. It reported ₹10,000 crore of liquidity against
+    DHFL was a 34-year-old retail mortgage lender. Its gross NPAs were 0.93% in June 2018, its average ticket
+    ₹15 lakh, and banks could buy its loans through assignments. It had no IL&FS exposure. It reported ₹10,000 crore of liquidity against
     ₹7,500 crore of CP due over six months, and no lender had recalled a loan. It could stop growing for a year and
     live on collections and loan sales. At 1.4× book and 7× earnings, the price assumed permanent damage from a panic
     that had also hit Bajaj Finance and LIC Housing. If the CP market reopened by December, the stock could return
@@ -469,7 +479,7 @@ beyond what this case could verify, so do not assume one.
    to sell.
    → [12.2 Market cycles & sentiment](../../12-macro-special-sits/02-market-cycles-and-sentiment.md) · [I3 Bajaj Finance](03-bajaj-finance-2008-2019.md)
 7. **A geared lender in a funding crisis is not cheap on book; it is bimodal.** At 1.4× book, DHFL was worth either
-   ₹400–500 or nothing. Size for the zero, and do not sell volatility on it.
+   ₹450–500 or nothing. Size for the zero, and do not sell volatility on it.
    → [06.8 Margin of safety & expected value](../../06-valuation/08-margin-of-safety-and-expected-value.md) · [11.4 Position sizing](../../11-process/04-position-sizing-and-portfolio-construction.md)
 8. **Resolution is slow and partial.** After nearly eight years IL&FS had repaid 82.6% of its target, about half of
    its external debt. DHFL's creditors got about 46%, its shareholders nothing, and the criminal case had not reached
@@ -583,8 +593,9 @@ programme enlarged in May 2018.
 
 **Amber:** RoA of 1.2%, so there is little profit to absorb losses; about ₹19,000 crore assigned off-book, which
 helps liquidity but sells the best loans; sister companies in housing finance, education loans and asset management
-(read the related-party note); the statement that CP is under 5% of liabilities, which is true but covers one
-instrument, not the ALM.
+(read the related-party note); the statement that CP is under 5% of liabilities, which Wadhawan's own figures do not
+support (₹7,500 crore is under 5% only if liabilities exceed ₹1.5 lakh crore; March borrowings were ₹92,715 crore,
+so CP was about 8%) and which in any case covers one instrument, not the ALM.
 
 **Green:** gross NPAs under 1% on a granular book; no promoter pledge; a 34-year record.
 
@@ -666,7 +677,7 @@ All accessed 23-Sep-2026.
 [13]: https://www.business-standard.com/article/news-ians/cobrapost-charges-based-on-mischievous-misadventure-with-mala-fide-intent-dhfl-119013000231_1.html
 [14]: https://idbitrustee.com/wp-content/uploads/2019/03/Revision-in-Credit-Rating-Dewan-Housing-Finance-Corporation-Ltd-Mar-2019.pdf
 [15]: https://www.business-standard.com/article/pti-stories/dhfl-shares-tank-nearly-16-as-icra-crisil-downgrade-ratings-119060600853_1.html
-[16]: https://www.moneylife.in/article/nclt-admits-rbis-plea-for-insolvency-against-dhfl/58808.html
+[16]: https://www.business-standard.com/article/finance/nclt-admits-crippled-mortgage-player-dhfl-for-bankruptcy-proceedings-119120200892_1.html
 [17]: https://www.moneylife.in/article/piramal-group-completes-dhfl-acquisition-for-rs38000-crore/65248.html
 [18]: https://www.business-standard.com/article/markets/nse-suspends-trading-of-dhfl-shares-from-june-14-know-why-121061201002_1.html
 [19]: https://www.business-standard.com/article/companies/dhfl-auditors-discover-fraudulent-transactions-worth-rs-14-046-cr-120090201826_1.html
@@ -676,10 +687,16 @@ All accessed 23-Sep-2026.
 [23]: https://www.sebi.gov.in/legal/circulars/dec-2018/creation-of-segregated-portfolio-in-mutual-fund-schemes_41462.html
 [24]: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1601254
 [25]: https://www.business-standard.com/companies/news/il-fs-group-repays-rs-50-387-cr-debt-by-june-2026-achieves-82-6-of-resolution-target-126072000636_1.html
+[26]: https://www.business-standard.com/article/news-ians/not-defaulted-on-any-bonds-repayments-dhfl-118092400669_1.html
+[27]: https://www.business-standard.com/companies/news/il-fs-group-repays-48-463-cr-to-its-lenders-reaches-nearly-80-of-target-125112600414_1.html
+[28]: https://www.business-standard.com/article/current-affairs/former-il-fs-chairman-ravi-parthsarthy-dies-aged-70-report-122042700837_1.html
+[29]: https://www.business-standard.com/article/companies/icra-conslidated-net-profit-rises-8-6-to-rs-24-45-cr-in-december-quarter-121020402070_1.html
 
 Source [1] compiles the India Ratings (18 September 2018), ICRA and CARE (17 September) rationales on IL&FS, with
-rating histories and FY2017–18 financials. Source [4] contains note 38.14 (maturity pattern). Source [25] reports
-the IL&FS affidavit filed with the NCLAT in July 2026 (data to 30 June 2026), from which the entity counts are taken.
+rating histories and FY2017–18 financials. Source [4] contains note 38.14 (maturity pattern). Source [14] (CARE,
+6 March 2019) contains DHFL's rating history, including the 3 February 2019 cut. Source [25] reports the IL&FS
+affidavit filed with the NCLAT in July 2026 (data to 30 June 2026); source [27] reports the September 2025 affidavit,
+from which the entity counts are taken.
 
 ---
 [← Previous: I3 · Bajaj Finance (2008–2019)](03-bajaj-finance-2008-2019.md) · [Module index](../index.md) · [Next: I5 · Yes Bank (2018–2020) →](05-yes-bank-2018-2020.md)
