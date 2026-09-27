@@ -75,7 +75,7 @@ to 12.5% — worth it only if the two-month downside is small relative to the ta
 similar decisions and size smaller; widen valuation ranges (use P10–P90 bands) and track calibration by decision
 type.
 
-**E11.20** Implied move ≈ 5.6% vs expected ~3%: (a) sell a covered call at the bull-case strike (or a cash-secured
+**E11.20** Implied mean absolute move ≈ 7% (1σ ≈ 8.8%) vs expected ~3%: (a) sell a covered call at the bull-case strike (or a cash-secured
 put at the base value if adding); (b) flat: a short straddle is the pure expression but unbounded — a short strangle
 or iron condor with defined risk, small; constraints: stock must be F&O-eligible, physical settlement on
 single-stock options, upfront premium and margin rules, possible ban period if MWPL is breached.

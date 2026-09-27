@@ -24,8 +24,9 @@
 
 ## 1. Implied move vs fundamental surprise
 
-Around a results date, the at-the-money straddle prices the market's expected absolute move:
-$\text{implied move} \approx 0.8 \times \text{straddle price} / \text{spot}$ (for a short-dated ATM straddle).
+Around a results date, the at-the-money straddle prices the market's expected absolute move. For a short-dated
+ATM straddle, $\text{straddle} \approx 0.8\,\sigma\sqrt{T}\,S \approx E|S_T - S|$, so the implied mean absolute
+move $\approx \text{straddle price} / \text{spot}$, and the one-standard-deviation move is about 1.25× that.
 A fundamental analyst can estimate the *surprise* independently: your forecast vs consensus (or vs guidance), and
 the stock's historical sensitivity to beats and misses (the post-earnings drift and the multiple's reaction).
 
@@ -123,7 +124,7 @@ rolls and margin. That constraint is why most Indian "long/short" is really long
 
 | Term | Meaning |
 |:--|:--|
-| **Implied move** | The absolute price change priced by the ATM straddle for a period (≈ 0.8 × straddle/spot) |
+| **Implied move** | The expected absolute price change priced by the ATM straddle for a period (≈ straddle ÷ spot; 1σ ≈ 1.25× that) |
 | **Skew** | The difference between put and call implied vols at equal moneyness |
 | **Stock replacement** | Holding calls (or call spreads) instead of shares to cap downside |
 | **Cash-secured put** | Selling a put with cash reserved to buy the shares if assigned |
@@ -140,7 +141,7 @@ rolls and margin. That constraint is why most Indian "long/short" is really long
 
 1. A stock's ATM straddle into results costs 6% of spot; your fundamental analysis expects a small beat with the
    multiple unchanged, and the stock's history shows ±3% moves on in-line results. What is the trade, if any?
-<details><summary>Answer</summary>Implied move ≈ 4.8% vs an expected ~3%: the event vol is rich. If long, sell a
+<details><summary>Answer</summary>Implied mean absolute move ≈ 6% (1σ ≈ 7.5%) vs an expected ~3%: the event vol is rich. If long, sell a
 covered call (or, if wanting to add, a cash-secured put) at a strike consistent with the base case; if no
 position, the edge is small and the risk of being wrong about the reaction is real — probably no trade.</details>
 
