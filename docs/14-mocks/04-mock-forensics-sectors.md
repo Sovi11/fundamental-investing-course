@@ -1,6 +1,6 @@
 # Mock 4 — Forensics & sectors
 
-**Take after:** Modules 08 and 09. **Time:** 2.5 hours, closed book (calculator allowed). **Marks:** 100 — Part A 20,
+**Take after:** Modules 08 and 09. **Time:** 2 hours, closed book (calculator allowed). **Marks:** 100 — Part A 20,
 Part B 45, Part C 35. **Pass:** 70.
 
 **Rules:** show workings. Amounts in ₹ crore unless stated. Round ratios to three decimal places and percentages to one.
@@ -8,7 +8,7 @@ Mark with the [answer key](answer-keys/04-mock-forensics-sectors-key.md).
 
 ---
 
-## Part A — multiple choice (20 × 1 mark; ~25 minutes)
+## Part A — multiple choice (20 × 1 mark; ~20 minutes)
 
 **A1.** In Schilit's taxonomy, booking revenue before the customer has accepted delivery is an example of:
 (a) shifting future expenses into the current period · (b) recording revenue too soon · (c) boosting income with
@@ -83,7 +83,7 @@ always lower than reported growth · (d) excludes acquisitions
 
 ---
 
-## Part B — problems (45 marks; ~70 minutes)
+## Part B — problems (45 marks; ~55 minutes)
 
 **B1. Beneish M-score (12 marks).** Godavari Components Ltd (fictional), ₹ Cr:
 
@@ -143,7 +143,7 @@ name the one metric you would pair with it to judge value creation over time.
 
 ---
 
-## Part C — forensic mini-case: Tapti Infratech (35 marks; ~55 minutes)
+## Part C — forensic mini-case: Tapti Infratech (35 marks; ~45 minutes)
 
 **Tapti Infratech Ltd** (fictional) is an EPC contractor building roads and water projects, mostly for state
 governments. It listed on the NSE in FY20. The stock has risen 4× in three years on "a ₹9,000 Cr order book".

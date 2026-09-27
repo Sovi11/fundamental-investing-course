@@ -268,9 +268,9 @@ lessons mapped to course modules → model answers → sources**. All facts are 
 | `01-mock-accounting.md` | Mock 1 — Accounting & statements | M02–M03 | 2 hours: 30 MCQs, 5 numerical problems, 1 statement-reconstruction problem |
 | `02-mock-analysis-business.md` | Mock 2 — Analysis & business quality | M04–M05 | 2 hours: 25 MCQs, ratio problems, a business-quality mini-case |
 | `03-mock-valuation.md` | Mock 3 — Valuation | M06–M07 | 2.5 hours: 20 MCQs, WACC/DCF/multiples problems, a bank valuation |
-| `04-mock-forensics-sectors.md` | Mock 4 — Forensics & sectors | M08–M09 | 2 hours: red-flag spotting on fictional excerpts, sector KPI questions |
+| `04-mock-forensics-sectors.md` | Mock 4 — Forensics & sectors | M08–M09 | 2 hours: 20 MCQs, Beneish/Altman/cash-flow-games problems, sector KPIs, a forensic mini-case |
 | `05-final-exam.md` | Final exam — "The Analyst Exam" | M00–M12 | 4 hours: comprehensive + a timed case on a new fictional company with full data |
-| `06-stock-pitch-mock.md` | Stock-pitch mock | Any time after M11 | 10-minute pitch format, rubric, a strong and a weak example pitch (fictional) |
+| `06-stock-pitch-mock.md` | Stock-pitch mock | Any time after M11 | 5-minute pitch + 10-minute Q&A, weighted rubric, question bank, a strong and a weak example pitch (fictional) |
 | `07-drills-unidentified-industries.md` | Drill — "Unidentified industries" (India edition) | After M04 | Common-size statements and ratios of 12 anonymised company types; match them to industries |
 | `08-drills-speed-and-mental-math.md` | Drill — speed ratios & mental math | Any time | Timed drills: margins, multiples, CAGR, perpetuity values, dilution |
 | `answer-keys/` | Answer keys & rubrics for every mock | — | Worked solutions, marks, rubrics |

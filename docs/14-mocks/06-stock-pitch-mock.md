@@ -1,6 +1,6 @@
 # Mock 6 — Stock-pitch mock
 
-**Take after:** Mock 5. **Time:** one week of research (budget ~10 hours), then a 5-minute pitch and 10 minutes of
+**Take after:** Module 11 (week 18 of the study plan); repeat it on a new company after the final exam. **Time:** one week of research (budget ~10 hours), then a 5-minute pitch and 10 minutes of
 questions. **Marks:** 100, on the rubric below. **Pass:** 70.
 
 The earlier mocks test whether you can do the pieces. This one tests whether you can put them together into a
@@ -11,8 +11,8 @@ decision that another person can check. It is the dress rehearsal for the [capst
 ## The task
 
 1. **Pick a company.** Take any listed Indian company with a market cap above ₹2,000 Cr that is *not* one of the
-   course's case studies. Or, for a first attempt, use Kabini from [Mock 5](05-final-exam.md). Avoid anything you
-   already own, so that you are not defending a position.
+   course's case studies. Once you have sat [Mock 5](05-final-exam.md), Kabini is also allowed for a first
+   attempt. Avoid anything you already own, so that you are not defending a position.
 2. **Research it.** Use the process in [11.2](../11-process/02-the-research-process.md):
    - read the last three annual reports and the last four quarterly results and call transcripts;
    - read the credit-rating rationales and the shareholding pattern;
