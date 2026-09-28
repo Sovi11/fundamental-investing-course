@@ -1,0 +1,914 @@
+#separator:tab
+#html:false
+#tags column:3
+10-K / 10-Q / 8-K	US annual report / quarterly report / current report on a material event	fi::03_5
+13F	Quarterly holdings report of US institutional managers above $100m	fi::03_5
+20-F / 6-K	Annual report / interim report of a foreign private issuer listed in the US	fi::03_5
+Absorption	Allocation of fixed production costs into inventory	fi::09_3
+Acceptance ratio	Fraction of shares tendered that the company actually buys / Shares accepted ÷ shares tendered	fi::01_3 fi::12_3
+Accounting equation	Assets = Liabilities + Equity; holds after every transaction	fi::02_1
+Accretive / dilutive	Raises / lowers a per-share measure (EPS, BVPS or value per share — say which)	fi::01_3
+Accrual	An expense or revenue recognised before the related cash moves (e.g., bonus accrued) / The non-cash component of profit; PAT − CFO (cash-flow view) or the change in net operating assets (balance-sheet view)	fi::02_6 fi::04_7
+Accrual basis	Recognising revenue when earned and expenses when incurred, whenever cash moves	fi::02_2
+Accruals anomaly (Sloan)	High-accrual companies subsequently show lower earnings persistence and stock returns	fi::04_7
+Accruals (as a signal)	The gap between accrual profit and operating cash flow	fi::02_2
+Active reading	Reading with prediction, computation and recall, not passive re-reading	fi::00_2
+Adjust / discount / monitor / escalate	The four responses to forensic findings	fi::09_7
+Adjusted beta	Regression beta shrunk toward 1 (0.67β + 0.33)	fi::06_2
+Adjusted EBITDA	"Company-defined EBITDA excluding ESOP and ""one-time"" costs; rebuild before use"	fi::07_4
+Adjusted EPS	EPS excluding exceptional items, after tax / EPS excluding items judged non-recurring, after tax; your own construction unless disclosed in the notes	fi::04_1 fi::04_6
+Adjusting / non-adjusting event	Post-year-end event that changes the numbers / is only disclosed (Ind AS 10)	fi::03_3
+ADV	Average daily traded value	fi::11_4
+Ageing schedule	Breakdown of receivables (or CWIP) by how long outstanding / Breakdown of receivables by time outstanding	fi::04_7 fi::09_2
+Agency problem	Conflict of interest between a principal and the agent acting for them	fi::01_1
+Aggregator	A site that collects and re-formats company data (Screener.in, Trendlyne, etc.); fast but not authoritative / A service that standardises filings into tables (Screener, Tijori, Trendlyne, Tikr) — derived, not primary, data	fi::00_2 fi::03_1
+Aggressive accounting	Estimates and policies chosen at the profit-flattering end of the acceptable range	fi::09_1
+AGM / EGM	Annual / extraordinary general meeting of shareholders	fi::01_1
+AGR	Adjusted gross revenue — the base for telecom licence fees; the 2019 Supreme Court ruling created large dues	fi::07_6
+Allowed RoE	The regulator-set return (CERC 2024–29: 15.5% thermal, 15% transmission)	fi::07_6
+ALM	Asset-liability management: maturity matching of loans and funding	fi::07_1
+ALMM	Approved List of Models and Manufacturers for solar modules used in government-backed projects / Approved List of Models and Manufacturers, MNRE's list of eligible solar modules (and now cells) for government-linked projects	fi::05_2 fi::05_4
+Alpha / tracking error / information ratio	Excess return over the benchmark / its standard deviation / their ratio, the standard measure of active skill	fi::00_1
+Alternative data	Non-traditional data (web, app, satellite, job postings) used to infer business activity	fi::05_7
+Altman Z-score	Five-ratio discriminant model of bankruptcy risk; safe above 2.99 (original)	fi::09_6
+Anchoring	Over-reliance on an initial reference number	fi::11_6
+Anchor investor	Large institution allotted shares the day before an IPO opens, subject to lock-in / An institution allotted shares before the issue opens; locked in 30 days (50%) and 90 days (50%)	fi::01_3 fi::03_5
+Anki	Free flashcard software that schedules spaced repetition; the course glossary is mirrored as a deck in flashcards/	fi::00_2
+Annotation (F/J/G/R)	Marking each claim as a verifiable Fact, management Judgement, Green flag or Red flag	fi::03_6
+Annuity / EMI	A finite level stream: $PV = C[1-(1+r)^{-n}]/r$. An EMI is the annuity payment that repays a loan	fi::01_5
+Anti-dilutive	A potential share whose inclusion would raise EPS; excluded from reported diluted EPS	fi::01_2
+AOC-1	The annual-report form summarising each subsidiary, associate and JV / Form summarising each subsidiary's, associate's and JV's key financials	fi::02_8 fi::03_2
+AOC-1 / AOC-2	Companies Act forms listing subsidiaries' financials / non-arm's-length RPTs	fi::05_6
+AOC-2	Form listing related-party contracts (not at arm's length; material at arm's length)	fi::03_2
+APE	Annualised premium equivalent: regular premium + 10% of single premium	fi::07_2
+Append-only record	A casebook in which past decisions are never edited, only followed by new dated entries	fi::15_1
+Appraisal value	EV + value of future new business	fi::07_2
+Arm's length	Terms equivalent to those with an unrelated party — asserted by the company, to be tested by you	fi::05_6
+ARPU	Average revenue per user / Average revenue per user per month	fi::05_1 fi::07_6
+ASM / GSM	Exchange surveillance frameworks that restrict trading in suspect stocks	fi::05_6
+ASM / GSM / ESM	Exchange surveillance frameworks imposing higher margins, tighter bands, trade-for-trade settlement or call auctions / Exchange surveillance frameworks restricting trading in flagged stocks	fi::01_4 fi::09_5
+ASP	Average selling price = revenue ÷ units; moves with both price and mix	fi::04_1
+Asset	Present economic resource controlled by the company as a result of past events	fi::02_1
+Asset turnover	Revenue ÷ average total assets; capital intensity's inverse	fi::04_3
+Asset-turnover (capacity) method	Growth capex = revenue beyond existing capacity ÷ turnover of new capacity; zero while there is spare capacity	fi::04_4
+Associate	A company over which another has significant influence (presumed at ≥20% votes); equity-accounted	fi::01_1
+Assumptions	The fi.model dataclass holding every forecast driver	fi::10_5
+Auditor resignation disclosure	LODR/SEBI 2019 requirement: detailed reasons, within 24 hours	fi::09_5
+Audit trail (Rule 11(g))	Auditor's report on whether the accounting software kept a non-disableable edit log (from FY24)	fi::03_2
+Authorised / paid-up capital	Legal ceiling on share capital / the amount actually paid on issued shares	fi::01_1
+Averaging down	Buying more after a fall — justified only with the thesis intact	fi::11_5
+Balance check	Total assets − (total liabilities + equity); must be zero	fi::02_6
+Balance confirmation	A request to a counterparty to confirm the balance owed; response rates are a quality signal	fi::03_6
+Balance sheet	Snapshot of assets, liabilities and equity at a date; Assets = Liabilities + Equity	fi::02_4
+Balancing figure (Q4)	Q4 results derived as audited full year minus nine-month YTD; absorbs year-end adjustments.	fi::03_4
+Balancing item	Cash (or revolver) — the line that makes the balance sheet balance	fi::10_3
+Base effect	Growth caused by an abnormal comparison period rather than by the current one	fi::04_1
+Base rate	How often an outcome happens in the relevant reference class; the starting point before case-specific evidence	fi::00_1
+Base rate / outside view	The distribution of outcomes for a reference class, used to anchor a forecast	fi::11_6
+Basic / diluted EPS	PAT to owners ÷ weighted shares; diluted adds shares from options/convertibles	fi::02_3
+Basic EPS	PAT attributable to owners ÷ weighted-average shares outstanding (Ind AS 33)	fi::04_6
+Basis for Issue Price	The offer-document section justifying the price with KPIs, peers and past transaction prices	fi::03_5
+Beat / miss / surprise	Actual above / below consensus; surprise = actual ÷ consensus − 1.	fi::03_4
+Beneish AQI / DEPI / SGAI	Asset-quality, depreciation and SG&A indices	fi::09_3
+Beneish M-score	Eight-index logistic model of earnings-manipulation probability; flag above −1.78	fi::09_6
+Beta	Sensitivity of a stock's returns to the market's; systematic risk	fi::06_2
+Beta-weighted hedge	Index futures sized by the position's beta	fi::11_7
+Big bath	Loading every possible charge into one bad year / Concentrating charges into one bad period so future periods look better	fi::04_7 fi::09_1
+Bill-and-hold	Customer invoiced but goods kept by the seller; revenue only if strict criteria are met / Invoicing goods that have not been delivered	fi::02_2 fi::09_2
+Bills discounted	Receivables (bills) financed by a bank; contingent liability if with recourse	fi::09_4
+Block deal	A single trade of at least ₹25 Cr in a dedicated window at within ±3% of a reference price	fi::01_4
+Board of directors	Governing body elected by shareholders; appoints and oversees management	fi::01_1
+Board's (Directors') report	Statutory report of the board under Sec 134(3), with annexures (AOC-1, AOC-2, CSR, remuneration, MR-3)	fi::03_2
+Bonus issue	Free shares issued by capitalising reserves	fi::01_3
+Book-to-bill	Orders received ÷ revenue executed; above 1 means the order book is growing	fi::04_1
+Book value per share	Total equity ÷ number of shares / Equity attributable to owners ÷ shares outstanding	fi::01_1 fi::02_4
+Bottom-up (unlevered/relevered) beta	Peer-average business beta, re-levered for the company's D/E	fi::06_2
+Branding	Willingness to pay a premium for an objectively equivalent product, built over time	fi::05_3
+Breadth	Share of stocks participating in a move	fi::12_2
+Break-even revenue	Fixed costs ÷ contribution margin	fi::04_2
+Break-even solve	Finding the input value that makes model value equal a target (Goal Seek / reverse DCF)	fi::10_4
+Brier score	Mean squared error of probabilistic forecasts; 0 is perfect, 0.25 is always-50%	fi::15_1
+BRSR / BRSR Core	Sustainability report for the top 1,000 listed companies; the Core subset gets third-party assessment or assurance on a glide path	fi::03_2
+Bulk deal	A client's trades in one stock on one day exceeding 0.5% of listed shares. Published the same evening	fi::01_4
+Bulk deal / block deal	Bulk: a client's trades in a day >0.5% of listed shares; block: a negotiated trade in a special window (minimum ₹25 Cr since Dec-2025)	fi::03_1
+Burn / runway	Cash consumed per period / periods of cash remaining	fi::07_4
+Business model	How a company creates, delivers and captures value — who pays, for what, and what it keeps	fi::05_1
+Buyback (tender / open market)	Company repurchases and extinguishes its shares, proportionately at a fixed price / on the exchange over time	fi::01_3
+Buyback yield	Cash spent on buybacks ÷ market cap	fi::04_6
+BVPS	Equity attributable to owners ÷ period-end shares	fi::01_2
+BVPS / tangible BVPS	Owners' equity ÷ shares; tangible also deducts goodwill and intangibles	fi::04_6
+CAC	Customer acquisition cost: sales & marketing spend ÷ new customers acquired	fi::05_1
+CAC / LTV	Customer acquisition cost / lifetime value	fi::07_4
+CAGR	Constant annual rate linking a start and end value: $(V_n/V_0)^{1/n} - 1$ / Compound annual growth rate: $(V_{\text{end}}/V_{\text{start}})^{1/n}-1$	fi::01_5 fi::04_1
+Calibration	The match between stated confidence and realised frequency / Agreement between the probabilities you state and the frequencies that follow	fi::11_6 fi::15_1
+Calibration buckets	Forecasts grouped by stated probability, with the hit rate compared to the probability	fi::15_4
+Capacity tracker	Project-by-project table of announced additions, graded by status, used to forecast utilisation	fi::05_4
+Capacity utilisation	Actual output ÷ installed capacity; the key state variable for capital-heavy businesses	fi::05_4
+Capex intensity	Capex ÷ revenue; capex ÷ (depreciation + intangible amortisation)	fi::04_4
+Capex schedule	Forecast of capital expenditure and the resulting fixed-asset and depreciation roll	fi::10_3
+Capital advances	Payments to suppliers for assets not yet delivered / Payment to a vendor for a fixed asset not yet received	fi::09_3 fi::09_4
+Capital allocation	The deployment of a company's cash among reinvestment, acquisitions, dividends, buybacks and debt repayment	fi::05_5
+Capital creditors	Amounts owed for capex already received; investing-related, not working capital	fi::02_6
+Capital cycle	The loop in which high returns attract capacity, capacity depresses returns, and low returns drive capacity out again	fi::05_4
+Capital-cycle analysis	Investment approach (associated with Marathon Asset Management) that focuses on industry supply rather than demand	fi::05_4
+Capital employed	Equity + all borrowings + lease liabilities (the sources view)	fi::04_3
+Capital intensity of growth	Extra invested capital needed per ₹ of extra revenue	fi::04_1
+Capitalisation	Recording an outlay as an asset rather than an expense	fi::04_7 fi::09_3
+Capitalise	Record a cost as an asset to be expensed over time (e.g. through depreciation) rather than immediately / Record a cost as an asset on the balance sheet rather than as an expense, then expense it over time	fi::02_1 fi::02_7
+Cap rate	Net operating income ÷ property value	fi::07_6
+CARO 2020	Companies (Auditor's Report) Order: 21 clause checklist reported by the auditor on standalone statements	fi::03_2
+CARO (ii)(b) remark	Auditor's statement on whether quarterly stock/receivable returns filed with banks agree with the books	fi::03_6
+Carve-out	A deliberate departure in Ind AS from the corresponding IFRS	fi::02_9
+CASA	Current + savings account deposits; a bank's low-cost funding base	fi::07_1
+Case-file rubric	Eight weighted criteria scoring the written case; 70 is the bar for acting	fi::15_4
+Cash as a position	Holding cash deliberately as optionality and buffer	fi::11_4
+Cash basis	Recognising revenue and expenses only when cash is received or paid	fi::02_2
+Cash check	Closing cash per the cash-flow statement = cash on the balance sheet	fi::02_6
+Cash conversion cycle (CCC)	DIO + DSO − DPO: days the company's own cash is tied up per sale / DIO + DSO − DPO: days of the company's own money tied up per sale	fi::00_2 fi::04_4
+Cash cost	Cost per unit excluding depreciation and financing	fi::07_3
+Cash EPS	(PAT + D&A) ÷ shares; ignores capex and working capital. Not a cash measure	fi::04_6
+Cash equivalents	Highly liquid investments with original maturity ≤3 months / Short-term, highly liquid investments with insignificant risk, typically ≤3-month original maturity	fi::02_4 fi::02_5
+Cash-flow hedge reserve	OCI balance holding the effective portion of hedges of future cash flows until they hit P&L	fi::02_8
+Cash-flow statement (CFS)	Statement of cash inflows and outflows in a period, split into operating, investing and financing	fi::02_5
+Cash-generating unit (CGU)	Smallest group of assets generating largely independent cash inflows	fi::02_7
+Cash-secured put	Selling a put with cash reserved to buy the shares if assigned	fi::11_7
+Catalyst	A dated event likely to reveal information that moves price towards value / A dated event expected to move price toward value	fi::00_3 fi::11_3
+Catalyst / thesis-breaker	The event expected to close the gap between price and value / the evidence that would prove the thesis wrong	fi::00_1
+CEA / TRAI / DGCA	Central Electricity Authority / telecom regulator / aviation regulator — sources of sector data	fi::05_7
+CECL	US GAAP's current expected credit loss model: lifetime losses from day one	fi::02_9
+CFF	Cash flow from financing activities — borrowings, repayments, interest paid, dividends, share issues, lease payments	fi::02_5
+CFI	Cash flow from investing activities — capex, investments, acquisitions, (for non-lenders) interest/dividends received	fi::02_5
+CFO	Cash flow from operating activities — cash generated by the business	fi::02_5
+CFO / CFI / CFF	Cash flow from operating / investing / financing activities	fi::09_4
+CFO/EBITDA, CFO/PAT	Cash-conversion ratios; judge over several years and against expected conversion	fi::04_4
+Change in accounting estimate	A revision (e.g., useful life) applied prospectively without restating prior years (Ind AS 8)	fi::02_7
+Change in estimate	A revision of an assumption (useful life, ECL rate) applied prospectively, without restating prior years	fi::03_3
+Change in inventories	(Opening − closing) finished goods/WIP; negative when stock is built, reducing expense	fi::02_3
+Channel check	Asking dealers/distributors about sell-through, inventory and competition	fi::05_7
+Channel financing	Bank lending to dealers to buy the company's goods, often guaranteed by the company	fi::09_4
+Channel inventory	Stock held by dealers/distributors; a leading indicator of future sell-in	fi::05_7
+Channel stuffing	Pushing excess stock into distribution before period-end to inflate revenue / Pushing excess product into distribution to book sales early	fi::02_2 fi::09_2
+Check	A formula that must evaluate to zero/true if the model is consistent	fi::10_1
+Churn / retention	Share of customers lost / kept per period	fi::05_1
+Circle of competence	The businesses you understand well enough to forecast; grows with study / The businesses you understand well enough to know when you are wrong	fi::00_3 fi::11_1
+Circularity	A loop in a model (interest ↔ debt ↔ cash) that needs iteration or an opening-balance convention / A formula that depends (directly or indirectly) on itself, e.g. interest on average debt where debt depends on cash which depends on interest	fi::02_6 fi::10_1 fi::10_3
+Circularity switch	An input that zeroes the self-referential term so an Excel model can be reset	fi::10_4
+Clean surplus	The property that all non-owner changes in equity pass through the income statement	fi::02_1
+Clean-surplus accounting	All gains/losses pass through profit, so $B_t = B_{t−1} + \text{PAT}_t − \text{Div}_t$	fi::06_7
+Clearing corporation / novation	The entity that becomes counterparty to both sides of every exchange trade and guarantees settlement	fi::01_4
+Closing entries	Year-end entries transferring revenue and expense balances into retained earnings	fi::02_1
+Cobweb model	Model in which supply responds to last period's price; oscillates when supply is very price-sensitive	fi::05_4
+Coffee-can investing	Buying consistent compounders and holding for a decade	fi::11_1
+Cohort analysis	Tracking a group of customers acquired in the same period over time (retention, spend) / Retention and spend of customers grouped by acquisition period	fi::05_1 fi::07_4
+Collar	Long put + short call around a long stock position	fi::11_7
+Collections	Cash received from customers during a period	fi::07_6
+Colour coding	Blue inputs, black formulas, green links, red checks	fi::10_1
+Combined ratio	Claims ratio + expense ratio for a general insurer; < 100% = underwriting profit	fi::07_2
+Commercial paper (CP)	Unsecured, rated short-term (≤1 year) money-market borrowing / Unsecured short-term (up to one year) debt instrument that must be rolled over	fi::01_3 fi::04_5
+Common-control combination	Combination of entities controlled by the same party; accounted for by pooling at book values (Ind AS 103 App. C)	fi::02_8
+Common-size statement	Every line expressed as a percentage of revenue / Each P&L line expressed as a percentage of revenue	fi::02_3 fi::04_2
+Competition (reference-group) neglect	Planning expansion as if rivals will not expand too	fi::05_4
+Competitive-advantage period (CAP)	The number of years a company is expected to earn returns above its cost of capital	fi::05_3
+Completion method	Revenue recognised when control transfers (Ind AS 115 for Indian developers)	fi::07_6
+Component accounting	Depreciating significant parts of an asset separately over their own lives	fi::02_7
+Compounding	Earning returns on previous returns: $FV = PV(1+r)^n$	fi::01_5
+Concentration	Number and weight of positions	fi::11_4
+Confirmation bias	Seeking and over-weighting evidence that supports an existing belief	fi::11_6
+Conglomerate discount	Below-sum valuation of a multi-business operating company / Below-SOTP valuation of a multi-business operating company	fi::06_7 fi::07_5
+Connected entities	Shareholders or counterparties that act in concert with promoters, often classified as public	fi::09_5
+Consensus	The mean or median of published analysts' forecasts for a metric. / The average of published analyst forecasts; not the same as price-implied expectations	fi::03_4 fi::06_6
+Consignment	Goods placed with a dealer who has not bought them; no revenue until onward sale	fi::02_2
+Consolidated / standalone	Group vs parent-only statements	fi::10_2
+Consolidation	The process by which share moves to fewer, larger players	fi::05_2
+Constant currency (CC)	Current-period revenue restated at prior-period exchange rates	fi::04_1
+Constraint	Include variable consideration only if a significant reversal is highly improbable	fi::02_2
+Contingent liability	Possible obligation disclosed in notes but not recognised / A possible obligation, or one not probable or measurable, disclosed in notes but not recognised	fi::02_4 fi::02_8 fi::04_5
+Contract asset (unbilled revenue)	Right to consideration for work done that is conditional on something other than time / Revenue recognised but not yet billable (Ind AS 115)	fi::02_2 fi::03_3
+Contract liability	Consideration received before performance — advances, deferred revenue	fi::03_3
+Contract liability (advance from customers)	Cash received for goods or services not yet delivered	fi::02_1
+Contract liability / deferred revenue	Cash received before revenue is earned	fi::09_2
+Contract liability (deferred revenue, advance from customers)	Consideration received or due before the company performs	fi::02_2
+Contractual service margin (CSM)	Under Ind AS 117 / IFRS 17, the unearned profit on insurance contracts, released over coverage	fi::02_9
+Contribution margin	(Revenue − variable costs) ÷ revenue; the profit on each incremental unit before fixed costs / Revenue minus variable costs of serving a unit, before fixed overheads	fi::04_2 fi::07_4
+Contribution per order / unit	Contribution ÷ units; the variable that decides break-even	fi::07_4
+Contribution per unit	Price − variable costs per unit	fi::05_1
+Contribution to growth	A segment's revenue change ÷ total prior-year revenue, in percentage points	fi::04_1
+Control	Power over an investee, exposure to its variable returns, and the ability to use that power to affect them (Ind AS 110)	fi::02_8
+Convertible	Debt or preference capital that converts (compulsorily or optionally) into equity	fi::01_2
+Cookie jar / big bath	Over-provisioning for later release / concentrating charges in one period	fi::09_3
+Cookie-jar reserve	Over-provisioning in good years to release in bad ones / Over-provisioning in good periods to release into profit later	fi::04_7 fi::09_1
+Core CFI	Capex and acquisitions, excluding treasury buying/selling of liquid investments	fi::02_5
+Cornered resource	Exclusive access to a valuable input (patent, lease, licence, location)	fi::05_3
+Corporate-governance report	LODR Schedule V Part C disclosure on board, committees, auditor fees, director resignations	fi::03_2
+Corporate guarantee	The company's promise to pay another entity's debt if it defaults / A company's promise to cover another entity's debt	fi::04_5 fi::05_6
+Cost build	Line-by-line forecast of costs from drivers (margins, fixed/variable, per unit)	fi::10_3
+Cost curve	Industry producers ranked by unit cash cost; sets the marginal price	fi::07_3
+Cost of capital	Return investors could earn on alternatives of equivalent risk; the discount rate	fi::06_2
+Cost of debt ($k_d$)	Current long-term borrowing rate; after tax, $k_d(1 − t)$	fi::06_2
+Cost of equity ($k_e$)	Return equity investors require; by CAPM, $r_f + \beta \times \text{ERP}$	fi::06_2
+Cost of materials consumed	Raw materials used in the period = opening stock + purchases − closing stock	fi::02_3
+Cost-to-income	Operating expenses ÷ (NII + fees)	fi::07_1
+Counter-positioning	A business model that incumbents cannot copy without harming their existing business	fi::05_3
+Country risk premium	Extra premium for a country's sovereign/market risk, added to a mature-market ERP	fi::06_2
+Covenant	Lender-imposed condition (e.g., net debt/EBITDA ≤ 2.0x) whose breach allows the lender to act / A contractual financial test in a loan agreement; breach allows lenders to demand repayment	fi::03_3 fi::04_5
+Covered call	Selling a call against shares held	fi::11_7
+Cover ratio / invocation	Collateral value ÷ loan. Invocation is the lender selling pledged shares when cover is breached	fi::01_4
+CRAR / Tier-1 / CET-1	Capital adequacy ratios against risk-weighted assets	fi::07_1
+Credibility discount	A valuation haircut applied when management's guidance has been unreliable	fi::05_5
+Credit cost	Provisions and write-offs ÷ average loans	fi::07_1
+Credit rating	An agency's opinion on the probability of timely debt service, on a scale from AAA to D	fi::03_5
+Credit rating / rationale	An agency's opinion on default risk, and the document explaining it and its sensitivities	fi::04_5
+Critical / key audit matters	Auditor's disclosure of the most significant audit judgements (PCAOB CAMs in the US; KAMs under SA 701 in India)	fi::02_9
+Cross-holding	Group companies owning shares in each other	fi::07_5
+Current account	Trade and income balance; crude is India's largest import	fi::12_1
+Current maturities of long-term debt	Portion of term loans repayable within 12 months, shown in current borrowings	fi::03_3
+Current / non-current	Realised or settled within 12 months or the operating cycle, or not	fi::02_4
+Current / quick ratio	Current assets ÷ current liabilities; (current assets − inventory) ÷ current liabilities	fi::04_5
+Current vs deferred tax	Tax on this year's taxable profit vs the accounting smoothing of timing differences (non-cash)	fi::02_3
+Customer concentration	Share of revenue from the largest customers	fi::05_1
+Cut-off	Assigning transactions to the correct period	fi::02_1
+CWIP	Capital work-in-progress: capex on assets not yet ready for use; not depreciated / Capital work-in-progress: assets under construction, not yet depreciated	fi::02_4 fi::09_3
+CWIP ageing	Schedule III ageing of capital work-in-progress, with completion schedules for overdue/over-budget projects	fi::03_3
+Cyclical	A business whose earnings swing with demand and/or commodity prices	fi::07_3
+Data table	Excel's built-in two-way sensitivity tool / Excel's what-if tool for one- and two-way sensitivities	fi::10_1 fi::10_4
+Days-based working capital	Inventory, receivable and payable balances forecast from days assumptions	fi::10_3
+DBO	Defined benefit obligation — actuarial present value of promised benefits such as gratuity (Ind AS 19)	fi::03_3
+DCF	Discounted cash flow: value = PV of forecast cash flows plus PV of terminal value	fi::06_3
+Debit (Dr) / Credit (Cr)	Left / right side of an entry; debits increase assets, expenses and dividends; credits increase liabilities, equity and revenue	fi::02_1
+Debt schedule	Forecast of borrowings, repayments, draws and interest	fi::10_3
+Dechow F-score	Logistic misstatement model fitted on SEC enforcement cases	fi::09_6
+Decision journal	Contemporaneous record of a decision's reasoning, predictions and confidence	fi::11_6
+Deemed cost	"Ind AS 101 option to use fair value as the cost of PP&E at transition / A transition election to use fair value (or previous carrying amount) as the ""cost"" of PP&E at transition"	fi::02_4 fi::02_9
+Deep dive	The full multi-week research producing the case file and model	fi::11_2
+DEF 14A	US proxy statement: pay, board, related parties	fi::03_5
+Deferred revenue	Cash billed and collected before revenue is recognised; a liability	fi::04_4
+Deferred tax	Tax expense not currently payable (or recoverable), arising from timing differences	fi::02_6
+Deferred tax liability / asset	Future tax payable / recoverable arising from timing differences between book and tax (Ind AS 12)	fi::02_8
+Degree of operating leverage (DOL)	%ΔEBIT ÷ %Δrevenue = contribution ÷ EBIT; profit's sensitivity to volume	fi::04_2
+Delisting / reverse book building	Promoter buy-out of public shareholders; the price-discovery mechanism	fi::07_5
+Demerger / spin-off	Separation of a business into a separately listed company / Separation of a business into a new listed company via a scheme of arrangement	fi::07_5 fi::12_3
+Depository (NSDL, CDSL) / demat	Electronic registries of share ownership. A demat account is your account with one of them, via a DP	fi::01_4
+Depreciable amount	Cost minus residual value	fi::02_7
+Depreciation	Systematic allocation of a fixed asset's cost to the periods that use it	fi::02_1
+De-rating	A fall in the valuation multiple independent of earnings	fi::06_8
+De-rating / re-rating	A fall / rise in the multiple independent of earnings	fi::06_5
+Development costs	Spending on applying research to new products or processes; capitalised only if the six Ind AS 38 criteria are met	fi::02_7
+Diluted EPS	Basic EPS adjusted for dilutive potential shares (options, warrants, convertibles)	fi::04_6
+Diluted shares	Shares plus potential shares from options, warrants and convertibles	fi::01_2
+Dilution	Increase in share count (ESOPs, new issues, conversions) that reduces per-share figures / Increase in shares outstanding, reducing each share's claim	fi::04_1 fi::05_5
+DIO / DSO / DPO	Inventory, receivable and payable days: balance ÷ (material cost or revenue) × 365	fi::00_2
+DIO (inventory days)	Inventory ÷ COGS (in India: material cost) × 365	fi::04_4
+DIPAM	Department of Investment and Public Asset Management; sets CPSE payout and disinvestment policy	fi::07_5
+Direct method	CFO presented as gross receipts and payments	fi::02_5
+Discount-closure event	A corporate action that narrows a holdco/conglomerate discount	fi::12_3
+Discount rate	The opportunity-cost return used to discount. For a company, typically WACC	fi::01_5
+Discount rate / required return	The annual return an investor demands for the risk and the wait; turns future cash into present value	fi::00_1
+Disposition effect	Selling winners too early and holding losers too long	fi::11_6
+Disqualifying (3)	A finding that removes the investment case until resolved	fi::09_7
+Disruption	A substitute whose price-performance improves fast enough to displace incumbents	fi::05_2
+Distinct	Capable of benefiting the customer on its own and separately identifiable within the contract	fi::02_2
+Dividend discount model (DDM)	Value = PV of expected dividends; single- or multi-stage	fi::06_7
+Dividend yield	DPS ÷ share price	fi::04_6
+Double-counting risk	Penalising the same risk in the discount rate, the cash flows and the margin of safety	fi::06_4
+Double entry	Recording every transaction as equal debits and credits in at least two accounts	fi::02_1
+Downside analysis	Identifying and sizing the plausible bad cases before the upside	fi::06_8
+DPCO	Drugs (Prices Control) Order: ceiling prices on essential medicines	fi::05_2
+DPO (payable days)	Trade payables ÷ COGS (material cost) × 365	fi::04_4
+DPS (paid vs declared)	Dividend per share paid in cash during the year, vs declared in respect of the year	fi::04_6
+Drawdown	Fall from a peak. Recovering from loss $L$ needs a gain of $L/(1-L)$	fi::01_5
+DRHP / RHP	Draft / red herring prospectus — the IPO offer document before / with the price band / Draft / final (pre-pricing) offer document for a public issue	fi::01_3 fi::03_1 fi::03_5
+Driver	An input assumption (growth rate, margin, days) from which a statement line is computed	fi::10_1
+DSCR	Debt service coverage ratio: cash available for debt service ÷ interest + scheduled principal / (EBITDA − cash taxes) ÷ (interest + scheduled principal); the lender's coverage ratio	fi::03_3 fi::04_5
+DSO	Days sales outstanding = receivables ÷ revenue × 365	fi::09_2
+DSO (receivable days)	Trade receivables ÷ revenue × 365	fi::04_4
+DSRI	Beneish's days-sales-in-receivables index: this year's receivables/revenue ÷ last year's	fi::09_2
+DSRI, GMI, AQI, SGI, DEPI, SGAI, LVGI, TATA	The Beneish indices (receivables, gross margin, asset quality, sales growth, depreciation, SG&A, leverage, accruals)	fi::09_6
+DuPont analysis	Decomposition of ROE into margin × turnover × leverage (3-step) or with tax and interest burdens (5-step)	fi::04_3
+Earnings cycle	Multi-year swings in aggregate corporate profits	fi::12_1
+Earnings management	Deliberate use of accounting choices to hit targets or smooth results	fi::09_1
+Earnings yield	Earnings ÷ price; the inverse of P/E	fi::12_1
+Earnings yield gap	Earnings yield minus the 10-year G-sec yield	fi::12_2
+EBIT	"EBITDA less depreciation and amortisation; ""operating profit"""	fi::02_3
+EBITDA	Earnings before interest, tax, depreciation and amortisation — an analyst convention, not a standard line	fi::02_3
+EBITDA / EBIT / PAT margin	Successive profit subtotals ÷ revenue	fi::04_2
+ECL	Expected credit loss: forward-looking provisioning (NBFCs since FY19; banks from Apr-2027)	fi::07_1
+ECL allowance	Expected-credit-loss provision against receivables	fi::09_2
+ECL allowance / provision matrix	Ind AS 109 provision for expected credit losses; a matrix applies loss rates by ageing bucket	fi::03_3
+Economic profit (EVA)	(ROIC − WACC) × invested capital	fi::04_3
+Effective annual rate (EAR)	The true annual rate after intra-year compounding: $(1 + r/m)^m - 1$	fi::01_5
+Effective tax rate	Total tax expense ÷ PBT; compare with the statutory 25.17%	fi::02_3
+Effective tax rate (ETR)	Tax expense ÷ PBT; reconciled to the statutory rate in the tax note (Ind AS 12)	fi::03_3
+Efficient market hypothesis (EMH)	The claim that prices reflect available information (weak, semi-strong, strong forms)	fi::00_1
+Embedded value (EV)	Net worth + PV of future profits on in-force life policies	fi::07_2
+Emphasis of Matter	Auditor's pointer to a disclosed matter, without modifying the opinion (SA 706)	fi::03_2
+Emphasis of Matter (EoM)	Auditor's paragraph drawing attention to a disclosed matter; the opinion is not modified	fi::03_6
+Encumbrance / pledge	Using shares as collateral; a price fall can trigger margin calls and forced sales	fi::03_1
+Enterprise value (DCF)	PV of FCFF + PV of terminal value; the value of operations	fi::06_3
+Enterprise value (EV)	Value of the operating business to all capital providers: market cap + debt + leases + preference + NCI − cash − non-operating assets	fi::01_2
+EPC / BOT / HAM	Construction-only / build-operate-transfer (toll or annuity) / hybrid annuity contract models	fi::07_6
+EPS (basic / diluted)	PAT attributable to equity holders ÷ weighted-average basic / diluted shares	fi::01_2
+Equity	Residual interest in assets after deducting liabilities; the owners' claim	fi::02_1
+Equity bridge	The walk from EV to equity value, subtracting non-equity claims and adding non-operating assets / EV − net debt − leases − NCI − other claims + non-operating assets	fi::01_2 fi::06_3
+Equity duration	Sensitivity of equity value to the discount rate; ≈ 1/(r − g) for a growing perpetuity	fi::12_1
+Equity method	One-line accounting for associates and JVs: cost + share of profit − dividends received	fi::02_8
+Equity risk premium (ERP)	Expected excess return of the equity market over the risk-free rate	fi::06_2
+Equity roll-forward	Opening equity + PAT − dividends + issues − buybacks + ESOP credit ± OCI = closing equity	fi::04_6
+Equity-settled share-based payment	ESOPs or shares valued at grant-date fair value and expensed over vesting; not re-marked	fi::02_8
+Equity vs enterprise multiple	Numerator market cap vs EV; denominator after-interest vs before-interest	fi::06_5
+Error log	A table of every mistake, classified as concept, arithmetic, reading or definitional	fi::00_2
+ESOP	Employee stock option: the right to buy shares at a fixed exercise price after vesting / Employee stock option plan; a call option granted to employees, expensed under Ind AS 102	fi::01_2 fi::05_5
+ESOP dilution	Increase in share count from employee options; a real cost to per-share value	fi::07_4
+Evidence hierarchy	Ranking of evidence by reliability: audited documents first, media last	fi::15_1
+EV/tonne, EV/MW, EV/room	Enterprise value per unit of physical capacity	fi::06_7 fi::07_3
+EV/tonne (EV per unit of capacity)	Enterprise value divided by installed capacity; compare with replacement cost per unit	fi::05_4
+Exceptional item	"A material, unusual income or expense (e.g., Kaveri's FY25 land-sale gain) that should be separated when judging recurring profit / A material, separately disclosed one-off within ordinary activities (Ind AS has no ""extraordinary"" items)"	fi::00_2 fi::02_3 fi::04_7
+Exit multiple	Terminal value set as a multiple of year-n EBITDA/EBIT — a relative-valuation shortcut	fi::06_3
+Expectations (implied)	The growth/return assumptions that make a DCF equal the market price	fi::06_1
+Expectations investing	Reading price as a forecast and betting on revisions to that forecast	fi::06_6
+Expectation that matters	The driver whose implied value the price most depends on and about which a view can be formed	fi::06_6
+Expected column	The base-case values written into the quarterly update before results arrive	fi::15_3
+Expected credit loss (ECL)	Forward-looking loss allowance (PD × LGD × EAD); three-stage under Ind AS 109	fi::02_9
+Expected credit loss (ECL) allowance	Deduction from receivables for losses expected over their life / Ind AS 109 provision against receivables that may not be collected	fi::02_4 fi::04_7
+Expected value	Probability-weighted average of scenario values	fi::06_8
+Expense	Decrease in equity other than distributions to owners	fi::02_1
+Expert network	A paid service connecting investors with industry experts, subject to compliance rules	fi::05_7
+Explanatory statement	The Sec 102 statement accompanying AGM resolutions, disclosing material facts and interests	fi::03_2
+Explicit forecast period	The years modelled driver by driver before steady state	fi::06_3
+Face value (par)	Nominal per-share amount; share capital = shares × face value	fi::01_1
+Factor exposure	The portfolio's tilt to size, style, sector, rates, flows	fi::11_4
+Factoring with recourse	Selling receivables for cash while retaining the credit risk	fi::09_4
+Fade	The assumed rate at which excess returns decline toward the cost of capital in a valuation / The decline of ROIC toward WACC over time as competition acts	fi::05_3 fi::06_1 fi::06_3
+Falsification test	The observable outcome and date that would prove the variant perception wrong	fi::06_6
+FCF conversion	(CFO − capex) ÷ PAT or ÷ NOPAT	fi::04_4
+FCFE	Cash available to shareholders after debt service and net borrowing	fi::02_5
+FCFF	EBIT(1 − t) + D&A − capex − ΔNWC; cash available to all capital providers	fi::02_5
+FCFF / FCFE	Free cash flow to the firm (all capital providers) / to equity holders	fi::06_3
+fcff_from_projection()	FCFF series derived from the projected statements	fi::10_5
+FCF yield	Free cash flow ÷ market cap (or FCFF ÷ EV)	fi::06_5
+FCTR	Foreign currency translation reserve: OCI balance from translating foreign operations	fi::02_8
+FIFO / weighted average / LIFO	Cost formulas deciding which purchase costs go to COGS; LIFO is not permitted under Ind AS/IFRS	fi::02_7
+Financial accounting	Standardised, periodic, audited reporting of a company's position and performance to outsiders	fi::02_1
+Financial leverage (DuPont)	Average assets ÷ average equity	fi::04_3
+Fiscal deficit / capex	Government borrowing and capital spending	fi::12_1
+Five forces	Porter's framework: rivalry, entrants, buyer power, supplier power, substitutes	fi::05_2
+Fixed-charge cover	Coverage extended to lease payments and other fixed commitments	fi::04_5
+Fixed cost	Cost that does not change with volume in the short run (depreciation, salaried staff, rent)	fi::04_2
+Flat rate	Interest charged on the original principal throughout. Roughly half the true reducing-balance rate	fi::01_5
+Float	Premiums held before claims are paid; invested for the insurer's account	fi::07_2
+Flow regime	The dominant marginal buyer (FPI vs DII/SIP) and its stability / The prevailing marginal-buyer structure	fi::12_1 fi::12_2
+Forecast register	A dated list of probabilistic, scoreable forecasts taken from the journal	fi::15_3
+Forensic accounting	Analysis of financial statements to detect manipulation, misstatement or fraud	fi::09_1
+Forensic audit	A special investigation, often SEBI- or lender-ordered, into suspected misstatement	fi::09_1
+Forensic audit (SEBI-ordered)	Investigation into a listed company's accounts, disclosable under LODR	fi::09_5
+Forensic checklist	A structured set of tests with sources, thresholds and scores	fi::09_7
+Form 4	US report of an insider's trade, due within two business days	fi::03_5
+Form MR-3	Secretarial audit report by a practising company secretary (Sec 204)	fi::03_2
+FPI / DII	Foreign portfolio investors / domestic institutional investors (MFs, insurers, banks, pension funds) / Foreign / domestic institutional investors	fi::01_4 fi::12_2
+FPO	Follow-on public offer by a listed company	fi::01_3
+Fractional Kelly	A fixed fraction (half, quarter) of the Kelly size, used because inputs are estimates	fi::11_4
+Fraud triangle	Pressure + opportunity + rationalisation	fi::09_1
+Free cash flow (FCF)	Cash from operations minus capital expenditure; cash the business could distribute without shrinking / Commonly CFO − capex; always state the definition	fi::00_1 fi::02_5
+Free cash flow to the firm (FCFF)	NOPAT + D&A − capex − ΔNWC: cash available to all capital providers	fi::06_1
+Free float	Shares available to ordinary investors, excluding promoter, strategic, insider and locked-in holdings	fi::01_2
+Free float / IWF	Shares available for trading (non-promoter, not locked in). IWF is the free-float fraction used in index weights	fi::01_4
+Fresh-eyes review	Reading a model cold, by another person or after a gap	fi::10_4
+Fresh issue	New shares issued by the company; proceeds to the company / New shares issued; the money goes to the company	fi::01_3 fi::03_5
+Functional currency	Currency of an entity's primary economic environment	fi::02_8
+Funnel	The staged filtering of ideas from sources to positions	fi::11_1
+Funnel statistics	Pass rates between stages; a diagnostic of your filters	fi::15_1
+Gambling for resurrection	Levered equity holders' incentive to raise risk because their downside is capped	fi::06_7
+GARP / PEG	Growth at a reasonable price; PEG = P/E ÷ expected earnings growth (in %)	fi::00_1
+GMV / GOV	Gross merchandise / order value flowing through a platform	fi::07_4
+GMV / GTV	Gross merchandise/transaction value flowing through a platform	fi::05_1
+GNPA / NNPA / stage 3	Gross / net non-performing assets; Ind AS 109 credit-impaired loans (90+ dpd)	fi::07_1
+Goodwill	Price paid for an acquired business minus fair value of its identifiable net assets / Consideration + NCI − fair value of identifiable net assets; not amortised under Ind AS, tested annually for impairment	fi::02_4 fi::02_8 fi::05_5 fi::09_3
+Gordon growth formula	Value of a cash flow growing at $g$ for ever, discounted at $r$: $CF_1/(r-g)$, valid only if $g<r$	fi::00_1
+Gordon growth model	Growing perpetuity: $PV = C_1/(r - g)$, valid only for $g < r$	fi::01_5
+Government grant	Assistance from government in return for compliance with conditions (Ind AS 20); related to assets or to income	fi::02_7
+Graded vesting	Awards vesting in tranches; each tranche is expensed separately, which front-loads cost	fi::02_8
+Grandfathering	Cost step-up to the 31-Jan-2018 price for pre-2018 holdings	fi::11_5
+Greenwald's method	Growth capex = average (PP&E ÷ sales) × Δsales; maintenance = capex − growth capex	fi::04_4
+Grey-market premium	Unofficial pre-listing IPO premium	fi::12_3
+Grey-market premium (GMP)	Unofficial pre-listing price premium on an IPO	fi::12_2
+GRM	Gross refining margin ($/bbl): product prices minus crude cost	fi::07_3
+Gross block / net block	Original cost of PP&E / cost less accumulated depreciation / Historical cost of PP&E / cost less accumulated depreciation and impairment	fi::02_1 fi::02_4
+Grossman–Stiglitz paradox	Perfectly efficient prices are impossible, because nobody would then be paid to gather information	fi::00_1
+Gross margin	(Revenue − cost of goods) ÷ revenue; the pricing-power layer	fi::04_2
+Gross NAV	Market/appraised value of holdings before discounts	fi::07_5
+Gross vs net revenue	Principal (gross) vs agent (net) presentation under Ind AS 115	fi::09_2
+Growing perpetuity	$CF_1/(r − g)$: the value of a cash flow growing at g for ever	fi::06_1
+Growth capex	Capex that adds capacity or capabilities	fi::04_4
+Growth effect / intensity effect	The split of ΔNWC into the part due to higher sales at old terms, and the part due to changed terms	fi::04_4
+Guidance	Management's stated expectations for future periods.	fi::03_4
+Hard no vs flag	An automatic disqualifier vs a concern that becomes a research question	fi::00_3
+HHI	Herfindahl–Hirschman Index: sum of squared market shares; > 2,500 is highly concentrated	fi::05_2
+Historical band	The range of a company's own multiple over time, with median and dispersion	fi::06_5
+Historicals	The block of actual financial statements a model is built on	fi::10_2
+Hockey stick	A forecast in which margins or growth jump implausibly after a flat history	fi::06_4
+Holdco discount	Gap between a holdco's market value and its gross NAV	fi::07_5
+Holding-company discount	Gap between a holdco's market value and the value of its holdings	fi::06_7
+Holding company (holdco)	A company whose principal assets are stakes in other companies	fi::07_5
+House view	The course's reference Kaveri valuation (₹320 base, ₹306 probability-weighted) that all lessons quote	fi::00_2
+Hurdle rate	The minimum return an investor requires; the practitioner's discount rate	fi::06_2
+If-converted method	Diluted EPS assuming conversion: add new shares; add back post-tax interest	fi::01_2
+IFC opinion	Auditor's opinion on internal financial controls over financial reporting (Sec 143(3)(i))	fi::03_2
+IFRS / IAS	International standards issued by the IASB; IAS 1–41 (older) and IFRS 1–18 (newer)	fi::02_9
+Impact cost	% difference between the execution price of a trade of a given size and the mid-price. A liquidity measure / Price movement caused by one's own trading	fi::01_4 fi::11_4
+Impairment	Write-down when carrying amount exceeds recoverable amount (Ind AS 36) / Write-down of an asset to recoverable amount (Ind AS 36)	fi::02_7 fi::09_3
+Implied exit multiple	Terminal value ÷ final-year EBITDA (or EBIT); a check on terminal assumptions	fi::06_4
+Implied growth / margin / WACC	The value of that input required by the price, others held fixed	fi::06_6
+Implied move	The expected absolute price change priced by the ATM straddle for a period (≈ straddle ÷ spot; 1σ ≈ 1.25× that)	fi::11_7
+Implied RoE	g + P/B × ($k_e$ − g)	fi::07_1
+Implied RoE (lenders)	$g + (P/B)(r − g)$: the RoE a P/B multiple requires	fi::06_6
+Implied terminal multiple	Today's EV grown at the discount rate ÷ terminal-year EBITDA	fi::07_4
+Implied yield on cash	Interest/treasury income ÷ average cash and liquid investments	fi::09_4
+Incremental ROIC	Change in NOPAT ÷ change in invested capital: what the new capital earned / Change in NOPAT ÷ change in invested capital over a multi-year window	fi::00_3 fi::04_3 fi::05_5
+Ind AS	Indian Accounting Standards, converged with IFRS; notified under the Companies Act, 2013	fi::02_9
+Ind AS 101 reconciliation	The first-time-adoption bridge from old GAAP to Ind AS equity and profit	fi::02_9
+Independent director	Non-executive director with no material relationship with the company or promoters / A board member with no material relationship to the company or promoters, as defined by LODR	fi::01_1 fi::05_6
+Index rebalancing	Scheduled changes to index constituents forcing passive flows	fi::12_3
+India VIX	Implied volatility index for the Nifty	fi::12_2
+Indirect method	CFO derived by adjusting profit for non-cash items, reclassifications and working-capital changes	fi::02_5
+Industry structure	The number and size distribution of competitors; fragmented → consolidated	fi::05_2
+Inorganic growth	Revenue from acquisitions made in the last twelve months	fi::04_1
+Input mapping	The translation of a company's reported lines into a model's variables	fi::09_6
+Input / output method	Measuring progress by effort or cost incurred (cost-to-cost) / by results delivered	fi::02_2
+Insider (PIT)	Anyone connected to the company or in possession of UPSI	fi::05_7
+Installed base	Units in the field that generate consumables or service revenue	fi::05_1
+Intangible asset	Identifiable non-physical asset (software, acquired brand); home-grown brands are not recognised	fi::02_4
+Intangibles under development	Capitalised development costs for projects not yet complete	fi::09_3
+Integrated filing	SEBI's bundling (from the Dec-2024 quarter) of periodic governance (30 days) and financial (45/60 days) filings	fi::03_1
+Integrated Filing (Financial)	The quarterly bundle of results and related statements filed with exchanges since the Dec-2024 quarter.	fi::03_4
+Inter-corporate deposit (ICD)	A loan from one company to another, often within a group / A loan between group companies	fi::05_6 fi::07_5 fi::09_4
+Interest cover	EBIT ÷ finance costs	fi::04_5
+Interest tax shield	Tax saved because interest is deductible; captured in WACC, not in FCFF	fi::02_5
+Interim / final dividend	Declared by the board during the year / recommended by the board and declared at the AGM	fi::01_3
+Intrinsic value	The present value of all future cash the business will distribute to its owners; an estimate, never observed / Present value of all future cash flows to the owner, at a risk-appropriate discount rate	fi::00_1 fi::06_1
+Invested capital	Operating assets net of operating liabilities; equals net financing claims / Net fixed assets + CWIP + ROU + intangibles + net working capital (the uses view, ex-cash)	fi::02_4 fi::04_3
+Investment memo	The written case for a decision: thesis, drivers, valuation, catalysts, risks, breakers, sizing	fi::11_3
+Investment property	Property held for rent or appreciation; cost model only under Ind AS 40	fi::02_4
+Invocation	The lender selling pledged shares after a margin call	fi::05_6
+IPO	Initial public offering: first sale of shares to the public and listing	fi::01_3
+IRAC	RBI's income recognition and asset classification norms for banks	fi::07_1
+IRAC norms	RBI's Income Recognition, Asset Classification and Provisioning rules for banks (incurred-loss based)	fi::02_9
+IRR	The discount rate at which NPV = 0	fi::01_5
+Issuer not cooperating (INC)	A rating maintained on public information because the issuer stopped providing data	fi::03_5
+IWF	NSE's Investible Weight Factor — free-float shares ÷ total shares, used to weight indices	fi::01_2
+Journal entry	The record of one transaction as debits and credits	fi::02_1
+Jump scenario	A tail outcome (governance, fraud, regulation) added to the scenario tree	fi::11_4
+Justified P/B	(ROE − g)/(r − g)	fi::06_5
+Justified P/E	(1 − g/ROE)/(r − g): the forward P/E consistent with the Gordon model	fi::06_5
+Kelly criterion	Bet size proportional to edge ÷ variance; usually applied fractionally / The bet size that maximises expected log wealth (long-run growth)	fi::06_8 fi::11_4
+Key Audit Matter (KAM)	A matter of most significance in the audit (SA 701), mandatory for listed companies / A matter the auditor judged most significant in the audit, with the procedures performed	fi::03_2 fi::03_6 fi::09_2
+Key managerial personnel (KMP)	CEO/MD, CFO, company secretary, whole-time directors	fi::05_6
+Kill criteria / kill log	Pre-set reasons to drop an idea; the record of dropped ideas and why	fi::11_1
+Kill log	A record of every idea rejected, with date, price and reason; the data for judging your own gates	fi::00_3
+Kill test	A 30-minute search for reasons not to research a company further; outputs pass/kill and research questions / A 30-minute screen for disqualifiers and a mispricing reason	fi::00_3 fi::11_2 fi::15_1
+KMP	Key managerial personnel: MD/CEO, CFO, company secretary (and whole-time directors)	fi::01_1
+KPI tracker	The monitoring table: each KPI with its latest value, base-case requirement, bull and breaker thresholds, and next reading date	fi::00_3
+L1 tender	Government tender awarded to the lowest bidder	fi::05_4
+Large / mid / small cap	SEBI buckets by full market-cap rank: 1–100, 101–250, 251+. AMFI publishes the list semi-annually	fi::01_4
+LCR	Liquidity coverage ratio	fi::07_1
+Lead time (gestation)	Time from the decision to build capacity until it produces	fi::05_4
+Learning journal	A dated record of each study session, including the explain-it-simply test	fi::00_2
+Lease-adjusted FCF	FCF − lease payments; restores comparability after Ind AS 116	fi::02_5
+Lease liability	Present value of future lease payments; debt-like / PV of future fixed lease payments, discounted at the implicit rate or incremental borrowing rate	fi::02_4 fi::02_7
+Ledger / T-account	The collection of accounts / one account's page, debits on the left and credits on the right	fi::02_1
+Legal person	An entity (like a company) that the law treats as able to own property, contract, sue and be sued in its own name	fi::01_1
+Leverage	The extent to which assets are financed by debt; debt/equity, net debt/EBITDA	fi::04_5
+Liability	Present obligation to transfer an economic resource, arising from past events	fi::02_1
+Life cycle	Emerging → growth → mature → decline, each with its own economics	fi::05_2
+LIFO reserve	Difference between FIFO (current) and LIFO inventory values; used to convert LIFO to FIFO	fi::02_9
+Limited liability	A shareholder's maximum loss is what they paid (plus any unpaid amount on partly paid shares)	fi::01_1
+Limited review	A lighter assurance on quarterly results than an audit; the auditor reports whether anything suggests material misstatement / A review of interim results by the statutory auditor (SRE 2410), mainly enquiry and analytics, giving negative assurance.	fi::03_1 fi::03_4
+Linkage	A rule tying a line in one statement to a line in another (e.g., PAT → retained earnings)	fi::02_6
+Liquidation value	Forced-sale value of assets less all liabilities and costs	fi::06_7
+Liquidity	The ability to meet obligations falling due in the next 12 months	fi::04_5
+Liquidity cover	(Cash + unutilised lines + expected collections) ÷ debt repayments over a period	fi::03_6
+Liquidity descriptor	Strong/Superior, Adequate, Stretched or Poor — the rating agency's standardised view of near-term liquidity	fi::03_5
+LODR	SEBI's Listing Obligations and Disclosure Requirements Regulations, 2015: what listed companies must disclose, and when / SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015: a listed company's continuing disclosure rules	fi::00_2 fi::01_4 fi::03_1
+Log return	$\ln(P_1/P_0)$. Additive through time	fi::01_5
+Look-through interest	Product of ownership percentages down a chain of holdings	fi::01_1
+LTCG / STCG	Long-/short-term capital gains; for listed Indian equity, the long-term threshold is 12 months	fi::00_1
+LTV	Lifetime value: discounted contribution expected from a customer over their life	fi::05_1
+Macroprudential	Regulatory tools (risk weights, LTV caps) targeting credit segments	fi::12_1
+Magic formula	Greenblatt's joint ranking on earnings yield and return on capital	fi::11_1
+Maintenance capex	Capex needed to keep existing volume and competitive position	fi::04_4
+Management-defined performance measure	Under IFRS 18, a non-GAAP subtotal used in public communications that must be disclosed and reconciled	fi::02_9
+Managerial remuneration cap	Companies Act limits on directors' pay as a percentage of net profit	fi::05_5
+Marginal NWC ratio	ΔNWC ÷ Δrevenue over a period; the working capital that each extra rupee of sales needed	fi::04_4
+Marginal producer	The highest-cost producer needed to meet demand; its cash cost anchors the price floor	fi::07_3
+Margin bridge	Decomposition of a margin change into mix, rate (price/cost) and volume/scale components	fi::04_2
+Margin money	Bank deposit pledged against guarantees or letters of credit; restricted cash	fi::02_4
+Margin of safety	The gap between estimated value and price, big enough to absorb estimation errors / The discount to estimated value you require before buying, sized to your uncertainty	fi::00_1 fi::00_3 fi::06_1 fi::06_8
+Market cap / GDP	Total equity market value relative to the economy	fi::12_2
+Market capitalisation	Share price × shares outstanding; the market price of the company's equity / Shares outstanding × market price	fi::00_1 fi::01_1 fi::01_2
+Market-wide circuit breaker	Nationwide halt when Nifty 50 or Sensex moves 10/15/20%	fi::01_4
+Matching principle	Pair EV with pre-interest measures and equity value with post-interest measures / Recognising expenses in the same period as the revenue they help earn	fi::01_2 fi::02_2
+Material accounting policies	Note describing how items are recognised and measured; changes are applied retrospectively (Ind AS 8)	fi::03_3
+Material event (Reg 30)	An event the company must disclose within 30 min / 12 h / 24 h, deemed material or above the 2%/2%/5% thresholds	fi::01_4
+Materiality threshold	Under Reg 30: lowest of 2% of turnover, 2% of net worth, 5% of 3-year average absolute PAT	fi::03_1
+Material RPT	An RPT above SEBI's turnover-slabbed threshold, requiring shareholder approval with related parties abstaining	fi::05_6
+Material uncertainty (going concern)	Disclosed doubt about the company's ability to continue for at least 12 months	fi::03_3
+Material uncertainty related to going concern	Auditor's flag (SA 570) of significant doubt about the company's ability to continue / Auditor's flag that the company may not continue	fi::03_2 fi::09_5
+MAT / MAT credit	Minimum Alternate Tax on book profit; the credit for MAT paid above normal tax (no new credit from FY27)	fi::02_8
+Maturity ladder	Schedule of debt repayments by year; bunching = refinancing risk	fi::04_5
+Max-loss rule	Position size chosen so the bear case costs no more than a fixed share of the portfolio / Position size ≤ acceptable portfolio loss ÷ bear-case loss	fi::06_8 fi::11_4
+Max-loss sizing	Position size = loss budget ÷ loss in the bad case	fi::00_3
+MCA21	The Ministry of Corporate Affairs' filing portal; source of AOC-4 (financials), MGT-7 (annual return) and charge filings for every company	fi::03_1
+MD&A	Management Discussion & Analysis (LODR Schedule V Part B), including explanations of ratios that moved ≥25%	fi::03_2
+Mean reversion	The tendency of abnormal margins to move back toward industry norms as competition responds	fi::04_2
+Median-employee ratio	Ratio of each director's pay to the median employee's pay (Sec 197(12), Rule 5(1))	fi::03_2
+Merchant power	Power sold at market prices outside PPAs	fi::07_6
+Merton model	Equity as a call option on firm assets with strike equal to debt	fi::06_7
+Mid-year convention	Discounting each year's cash flow by $t − 0.5$ years to reflect intra-year receipt	fi::06_3
+Minimum public shareholding	SEBI requirement of ≥ 25% public float	fi::07_5
+Minimum public shareholding (MPS)	SEBI's 25% public float requirement	fi::09_5
+Minority shareholders	Public shareholders without control	fi::05_6
+Mix effect	Revenue change from a shift in the blend of products (or segments, channels, geographies) sold / Change in a blended margin caused by the weights of segments/products shifting	fi::04_1 fi::04_2
+Moat	A durable competitive advantage that protects returns on capital from competition	fi::00_1
+Moat / durable competitive advantage	A structural feature that allows sustained returns above the cost of capital despite visible competition	fi::05_3
+Moat erosion	The decline of an advantage through technology, entry, regulation or channel shifts	fi::05_3
+Moat-washing	Describing ordinary advantages as durable moats	fi::05_3
+Model QA	Structured review for logical, arithmetic and presentation errors	fi::10_4
+MOIC	Multiple on invested capital: total money back ÷ money in	fi::01_5
+Monitoring plan	The KPIs, sources, frequency and thresholds used to track the thesis	fi::11_3
+Monte-Carlo simulation	Repeated random sampling of inputs to produce a distribution of outputs	fi::06_8
+Montier C-score	"Six-flag ""cooking the books"" screen"	fi::09_6
+Mosaic theory	The (US) idea that assembling non-material pieces into a material conclusion is legitimate; treat with caution in India	fi::05_7
+MSE dues	Trade payables owed to micro and small enterprises; 45-day rule under the MSMED Act	fi::02_4
+Multibagger	"A stock that rises many-fold (a ""10-bagger"" rises 10x)"	fi::00_1
+Multiple	Price (equity or enterprise) divided by a fundamental (earnings, book, sales, cash flow)	fi::06_5
+Multiple compression	De-rating caused by slower growth or higher rates	fi::06_5
+Multiple expansion / compression	Return from a rising / falling P/E, as distinct from earnings growth	fi::01_5
+MWPL / ban period	Market-wide position limit; trading restrictions when breached	fi::11_7
+MWPL / FutEq OI / F&O ban	Market-wide position limit; delta-adjusted open interest; a ban on new F&O positions when OI exceeds 95% of MWPL	fi::01_4
+Narrative fallacy	Preferring coherent stories to statistical evidence	fi::11_6
+NAV	Net asset value: assets at market/appraised value − liabilities	fi::06_7
+NAV (real estate)	PV of project cash flows + land + rental assets − debt	fi::07_6
+NCD	Non-convertible debenture: a bond	fi::01_3
+NCI	Non-controlling interest — outside shareholders' share of subsidiaries' profit and equity	fi::02_3
+Negative assurance	"""Nothing has come to our attention…"" — weaker than an audit's positive ""true and fair"" opinion."	fi::03_4
+Negative working capital / float	NWC below zero: customers and suppliers fund the business; growth releases cash	fi::04_4
+Net debt	Borrowings − cash and liquid investments (lease liabilities shown separately in this course) / Borrowings (+ leases) − cash − liquid investments	fi::01_2 fi::04_5
+Net-net	Graham's test: a stock priced below current assets minus all liabilities / Graham's screen: current assets − all liabilities > market cap	fi::00_1 fi::06_7 fi::11_1
+Net operating assets (NOA)	Operating assets − operating liabilities; excludes cash, investments and debt	fi::04_7
+Net realisable value (NRV)	Estimated selling price less costs to complete and sell; inventory cap / Estimated selling price less costs to complete and sell; inventory is carried at the lower of cost and NRV	fi::02_4 fi::02_7
+Network economies (effects)	Product value rising with the number of users	fi::05_3
+Net working capital (NWC)	Operating current assets minus operating current liabilities	fi::02_4
+NFRA	National Financial Reporting Authority — India's audit regulator / Audit regulator; publishes inspection findings and penalties	fi::09_1 fi::09_5
+NII / NIM	Net interest income = interest earned − paid; NIM = NII ÷ average interest-earning assets (or loans)	fi::07_1
+Non-cash transaction	Investing or financing transaction with no cash movement (share-funded acquisition, new lease) / A transaction with no cash movement (new lease, share-funded acquisition, capex on credit)	fi::02_5 fi::02_6
+Non-controlling interest (NCI)	Outside shareholders' share of a consolidated subsidiary / Outside shareholders' share of a subsidiary's equity (consolidated only)	fi::01_1 fi::02_4 fi::02_8
+Non-speculative business income	Indian tax classification of F&O profits	fi::11_7
+NOPAT	Net operating profit after tax = EBIT × (1 − tax rate)	fi::02_5 fi::04_3
+Normal capacity	The production level expected on average; fixed overhead is absorbed into inventory on this basis, and the unabsorbed part is expensed	fi::02_7
+Normalisation	Adjusting reported profit for one-offs to estimate underlying, recurring earnings. / Adjusting history for one-offs and policy changes	fi::03_4 fi::10_2
+Normalised / mid-cycle earnings	Earnings at through-cycle average margins on current volumes	fi::07_3
+Normalised (recurring) earnings	Profit adjusted to remove non-recurring items, with tax effects	fi::04_7
+NPV	Sum of discounted cash flows minus the upfront cost	fi::01_5
+OBICUS	RBI's quarterly survey of manufacturers' order books, inventories and capacity utilisation	fi::05_4
+OCI	Other comprehensive income — gains/losses that bypass the P&L and go straight to equity	fi::02_3
+Offer for sale (OFS)	Existing holders sell shares; proceeds to the sellers / Existing shareholders sell; the money goes to them	fi::01_3 fi::03_5
+OFS	Offer for sale by a promoter (often the government) through the exchange mechanism	fi::07_5
+Old Indian GAAP (AS)	The pre-Ind AS Accounting Standards (AS 1–32), still used by smaller unlisted companies, SME-exchange companies and banks	fi::02_9
+Omnibus approval	Audit-committee approval of expected related-party transactions up to a limit for the year	fi::03_6
+One-pager	The compressed decision version of the memo	fi::11_3
+One-page thesis	The one-page output of the workflow: decision, what the price implies, variant perception, valuation, flags, catalysts, KPIs, pre-mortem, sizing	fi::00_3
+Open offer (SAST)	Mandatory offer to public shareholders on a change of control or crossing 25%	fi::12_3
+Operating cycle	Time from buying inputs to collecting cash from customers / The loop cash → inventory → receivable → cash	fi::02_4 fi::04_4
+Operating net working capital (NWC)	Inventories + receivables + other operating current assets − payables − other operating current liabilities; excludes cash and debt	fi::04_4
+Operating profit before working-capital changes	PBT adjusted for non-cash and non-operating items; ≈ EBITDA + non-cash charges	fi::02_5
+Operating Profit / OPM (Screener)	Sales − Expenses, before other income, depreciation and interest / that divided by sales	fi::00_2
+Operating Profit (Screener)	Sales − Expenses, before other income, D&A and interest (= EBITDA excl. other income)	fi::04_6
+Operating RoEV	Operating growth in embedded value ÷ opening EV	fi::07_2
+Operating segment	A component reviewed separately by the chief operating decision-maker (Ind AS 108)	fi::03_3
+Operator	A market participant who manipulates thinly traded stocks through coordinated trading and promotion	fi::09_5
+Order book	Contracted but unexecuted revenue in a project business	fi::05_1
+Order book; book-to-bill	Unexecuted contracts; new orders ÷ revenue	fi::07_6
+Ordinary / special resolution	Passed by votes for > votes against / votes for ≥ 3 × votes against / Shareholder resolutions passed by simple majority / at least 75% of votes cast	fi::01_1 fi::03_2
+Organic growth	Growth from businesses owned in both periods, usually at constant currency	fi::04_1
+Other comprehensive income (OCI)	Gains and losses kept out of profit; TCI = PAT + OCI	fi::02_8
+Other equity	Ind AS balance-sheet heading for all reserves, including retained earnings, securities premium, ESOP reserve and OCI reserves	fi::02_1
+Other income	Non-operating income: interest, dividends, investment gains, FX gains, asset-sale profits	fi::02_3
+Over time / point in time	Revenue recognised progressively as work is performed / at the moment control transfers	fi::02_2
+Owner earnings	Buffett's PAT + D&A and non-cash charges − maintenance capex (and maintenance WC)	fi::02_5
+Page reference	The citation to the filing page supporting each score	fi::09_7
+Pair trade	Long one stock, short a similar one	fi::11_7
+Pari passu	Ranking equally; sharing pro rata if funds are insufficient	fi::01_1
+Pass-through	The ability and speed with which input-cost changes are reflected in selling prices	fi::04_2
+Past service cost	Change in DBO from a plan amendment or law change (e.g., the 2025 labour codes), recognised in P&L	fi::03_3
+Path to profitability	A driver-based forecast of when and how contribution overtakes fixed costs	fi::07_4
+Payback period (customer/store)	Time for cumulative contribution to recover CAC or store capital	fi::05_1
+Payoff asymmetry	Upside to the good case ÷ downside to the bad case, measured from the price / The ratio of upside to downside from the current price across scenarios	fi::00_3 fi::06_4 fi::06_8
+Payout ratio	Dividends ÷ PAT (or ÷ FCF, to test cash cover) / Dividends ÷ PAT (or ÷ FCF)	fi::04_6 fi::05_5
+Payout ratio / dividend yield	Dividends ÷ PAT / dividend per share ÷ price	fi::01_3
+P/B, P/ABV	Price ÷ book value; price ÷ adjusted (for NNPA etc.) book value	fi::07_1
+PBT / PAT	Profit before / after tax	fi::02_3
+PCR	Provision coverage ratio: stage-3 provisions ÷ stage-3 loans	fi::07_1
+P/E and earnings yield	Price ÷ earnings per share; its inverse (earnings ÷ price) is the earnings yield	fi::00_1
+Peer dashboard	The same ratios across comparable companies for one period, on consistent definitions	fi::04_6
+Peer set / comparables	Companies with similar growth, returns and risk used for relative valuation	fi::06_5
+PEG	P/E ÷ expected growth rate (in %); a heuristic	fi::06_5
+Pendulum (Marks)	The oscillation of market psychology between extremes	fi::12_2
+P/E paradox	Cyclicals show low P/Es at earnings peaks and high P/Es at troughs	fi::07_3
+P/E, P/B, earnings yield	Price ÷ EPS; price ÷ BVPS; EPS ÷ price	fi::01_2
+Percentage-of-completion (POC)	Over-time revenue recognition on long contracts based on progress	fi::09_2
+Percentile band (P10–P90)	The range containing the central 80% of simulated values	fi::06_8
+Performance obligation (PO)	A promise to transfer a distinct good or service; the unit of account for revenue	fi::02_2
+Perpetuity	A cash flow forever: $PV = C/r$	fi::01_5
+Persistency	Share of policies still in force after a given period (13th, 25th, 37th, 61st month)	fi::07_2
+P/EV	Market capitalisation ÷ embedded value	fi::07_2
+Physical settlement	Delivery of shares on expiry for single-stock derivatives	fi::11_7
+Piotroski F-score	Nine binary fundamental-strength signals; 8–9 strong, 0–2 weak	fi::09_6
+PIT	SEBI Prohibition of Insider Trading Regulations, 2015 — insiders report trades above ₹10 lakh per quarter within two trading days	fi::03_1
+Pledge	Promoter shares given as collateral for a loan; a forced-selling risk if the price falls	fi::01_1
+Pledge / encumbrance	Shares given as collateral for a loan (encumbrance also covers liens and non-disposal undertakings). Disclosed under SAST Reg 31 / Promoter shares given as loan collateral; disclosed under SAST Reg 31	fi::01_4 fi::05_6
+Pledge invocation	Lender selling pledged promoter shares	fi::09_5
+PLF	Plant load factor: actual generation ÷ capacity	fi::07_6
+PLI	Production-Linked Incentive: government subsidy tied to incremental domestic output	fi::05_2
+Plug	"The line a model uses to force balance — should be cash or a revolver, never an arbitrary ""other"" / The balancing item; in a well-built model, cash or the revolver, once"	fi::02_6 fi::10_1
+Portfolio pre-mortem	A narrative of how the whole portfolio failed	fi::11_4
+Positive skewness	A distribution with a long right tail; for stocks, the mean is far above the median	fi::00_1
+Post-earnings-announcement drift	Tendency of prices to continue moving after a surprise	fi::11_1
+Post-mortem	Structured review of a closed position: expectations, outcome, process, lessons	fi::11_5
+PPA	Power purchase agreement: long-term contracted tariff	fi::07_6
+PPOP	Pre-provision operating profit	fi::07_1
+Preference share	Share ranking ahead of equity for dividends and capital, usually fixed-rate	fi::01_1
+Preferential allotment	Issue of shares or convertibles to named investors, approved by special resolution	fi::01_3
+Preferential allotment / warrants	Issue of shares or share-purchase rights to selected investors at a regulated floor price	fi::05_6
+Pre-mortem	Imagining the investment has already failed and writing down the most likely reasons / A narrative of how the position failed, written before it is taken	fi::00_3 fi::11_3 fi::11_6
+Prepaid expense	Cash paid before the expense is recognised; an asset until used	fi::02_6
+Pre-sales / bookings	Value of units contracted for sale in a period (real estate); an operating KPI, not revenue / Value of residential units sold in a period, before revenue recognition	fi::02_2 fi::07_6
+Present value / discount factor	Today's value of a future cash flow; $1/(1+r)^n$	fi::01_5
+Present value (PV)	A future amount shrunk by the required return for each year of waiting: $CF_t/(1+r)^t$	fi::00_1
+Price	The last traded price of a share; set by whoever is trading, for any reason	fi::00_1
+Price band / circuit	Maximum permitted daily move for a non-F&O stock (2/5/10/20%)	fi::01_4
+Price deck	The commodity price assumptions by year in a model	fi::07_3
+Price effect	Revenue change from like-for-like price changes on each product	fi::04_1
+Price-taker	A producer of an undifferentiated product sold at a market price it cannot influence	fi::07_3
+Price war	Competition in which the dominant lever is price cuts, usually triggered by a well-funded entrant or excess capacity	fi::05_2
+Pricing power	Ability to raise prices ahead of costs without losing volume	fi::05_3
+Primary / secondary transaction	New securities issued, cash to the company / existing securities traded between investors	fi::01_3
+Primary source	The original document (annual report, exchange filing, regulator order), as opposed to an aggregator's copy	fi::00_2
+Principal / agent	Controls the good before transfer and reports gross / arranges for another party and reports net	fi::02_2
+Priority of claims	The order in which claimants are paid; in Indian liquidation, fixed by IBC s.53	fi::01_1
+Private / public / listed company	Restricted-transfer company with ≤200 members / any non-private company / company with securities on a recognised exchange	fi::01_1
+Probability-weighted value	The sum of scenario values times their probabilities (Kaveri: ₹306) / Σ (probability × scenario value)	fi::00_3 fi::06_4
+Process changelog	Dated record in PROCESS.md of each rule change, its evidence and its test	fi::15_4
+Process power	Embedded organisational capability that delivers lower cost or higher quality and takes years to copy	fi::05_3
+Process vs outcome	Judging decisions by their quality at the time, not by their result	fi::11_6
+Profit bridge	A walk from one period's profit to another's, line by line.	fi::03_4
+Profit pool	The distribution of an industry's total profit across the stages of its value chain	fi::05_2
+project()	The fi.model function that turns history + assumptions into three balanced statements and checks	fi::10_5
+Promoter	India: the founder/controlling shareholder group of a listed company / The controlling person/group of an Indian company, with specific legal obligations	fi::00_1 fi::01_4
+Promoter pledge	Promoter shares given as collateral for loans; a margin-call risk for the stock	fi::04_5
+Promoter / promoter group	The controlling founder, family, group, parent or government, and persons connected to it / The controlling person(s) of a company and their connected entities, as defined by SEBI	fi::01_1 fi::05_6
+Provision	A recognised liability of uncertain timing or amount (Ind AS 37)	fi::02_8
+Provision roll-forward	Opening + charge − utilisation − reversal = closing	fi::09_3
+Provision vs contingent liability	Probable and measurable → recognised; possible (or unmeasurable) → disclosed only (Ind AS 37)	fi::03_3
+Provision write-back	Reversal of an earlier provision into profit	fi::04_7
+PSU / CPSE	Public-sector undertaking / central public-sector enterprise	fi::07_5
+Purchase price allocation (PPA)	Assigning the acquisition price to identifiable assets and liabilities at fair value; the residual is goodwill	fi::02_8
+QIB	Qualified institutional buyer (mutual funds, insurers, banks, FPIs, etc.)	fi::01_3
+QIP	Qualified institutions placement: fast share issue to QIBs only	fi::01_3
+QIP / preferential allotment / warrants	Equity issuance to institutions / to chosen investors (often promoters) / rights to buy shares later at a fixed price	fi::05_5
+Qualified / adverse / disclaimer opinion	Audit opinions indicating misstatement or inability to obtain evidence	fi::09_5
+Qualifying asset	An asset that takes a substantial period to get ready; borrowing costs on it are capitalised (Ind AS 23)	fi::02_7
+Quality of earnings	The degree to which reported profit is cash-backed, recurring, operating and attributable to shareholders	fi::04_7
+Quarterly review	The structured update of the thesis after each result	fi::11_5
+RAG rating	Red / Amber / Green summary of the checklist	fi::09_7
+Rate effect	Change in a blended margin caused by segments' own margins changing	fi::04_2
+Rating outlook / watch	Stable, Positive or Negative direction over 1–2 years / a flag that a pending event may change the rating soon	fi::03_5
+Rating rationale	A credit-rating agency's published explanation of a rating action	fi::03_1
+Rating sensitivities	The specific factors that would trigger an upgrade or downgrade	fi::03_5
+Ratio dashboard	A fixed-order, fixed-definition table of ratios across years, read as a causal chain	fi::04_6
+Realisation	Average selling price per unit achieved	fi::07_3
+Real option	Managerial flexibility (expand, abandon, defer, switch) valued as an option	fi::06_7
+Real vs nominal	Return in purchasing power vs in rupees: $(1+n) = (1+r)(1+\pi)$ (Fisher)	fi::01_5
+Receivables ageing schedule	Schedule III (2021) breakdown of receivables by time overdue, disputed/undisputed, credit quality	fi::03_3
+Reclassification	Moving an item between categories (e.g., other income out of EBITDA) for analytical consistency	fi::10_2
+Reconciliation of financing liabilities	Ind AS 7 para 44A disclosure of cash and non-cash changes in debt and leases	fi::02_5
+Record date / appointed date / effective date	Dates fixing entitlement / accounting transfer / legal effect	fi::12_3
+Record date / ex-date	Date the register is fixed for entitlement / first trading day without the entitlement	fi::01_3
+Recoverable amount	Higher of fair value less costs of disposal and value in use	fi::02_7
+Red team	A deliberate argument for the opposite conclusion / A reviewer, human or AI, whose job is to break the case before a decision	fi::11_6 fi::15_4
+Reference valuation	The course's base case (₹320) that the build must reproduce	fi::10_5
+Refund liability	Expected rebates, returns or price concessions owed to customers	fi::02_2
+Reg 30	LODR rule requiring disclosure of material events (Schedule III Part A deemed material; Part B subject to materiality test)	fi::03_1
+Reg 33	LODR rule on financial results: 45 days after each of Q1–Q3; 60 days after year-end (audited)	fi::03_1
+Regulated equity base	The equity on which a regulator allows a return	fi::07_6
+Regulation 33 (LODR)	The SEBI rule governing the preparation, approval, review and filing of quarterly and annual results.	fi::03_4
+Regulatory moat	Protection arising from licensing or regulatory limits on entry	fi::05_3
+Reinvestment identity	Sustainable growth g = reinvestment rate × ROIC	fi::04_3
+Reinvestment rate	(Capex + ΔNWC − D&A) ÷ NOPAT; the share of profit ploughed back / Share of NOPAT reinvested = g / ROIC in steady state	fi::04_3 fi::06_1
+REIT / InvIT	Listed trusts holding income-generating real estate / infrastructure; ≥ 90% distribution	fi::07_6
+Related party	A person or entity with control, joint control, significant influence or KMP status, or a group member (Ind AS 24) / Entities/persons that control, are controlled by, or significantly influence the company, and KMP and their relatives (Ind AS 24)	fi::02_8 fi::03_3
+Related party / RPT	Persons or entities connected to the company's controllers; transactions with them	fi::05_6
+Related-party transaction (RPT)	A transaction between the company and a party connected to it (promoters, directors, group companies) / Dealings with promoters, directors, group companies or their relatives	fi::01_1 fi::04_7
+Relative value	Value inferred from the prices of comparable assets (multiples)	fi::06_1
+Remaining performance obligations	Contracted revenue not yet recognised; an audited order book / Unexecuted portion of contracts; an audited cousin of the order book	fi::02_2 fi::03_3
+Renunciation	Selling or transferring a rights entitlement	fi::01_3
+Replacement cost	Cost of building an equivalent unit of capacity today / Cost to rebuild the assets today	fi::05_4 fi::06_7 fi::07_3
+Repo rate / stance	RBI's policy rate and its bias (accommodative, neutral, withdrawal)	fi::12_1
+Required (implied) demand growth	Demand growth needed to keep utilisation constant once announced capacity arrives	fi::05_4
+Research-as-procrastination	Continuing to gather information after conclusions have stopped changing	fi::11_2
+Research log	Dated record of what you learned, from whom, and what you expected — for bias control and compliance / Dated record of sources, findings, confidence and next actions	fi::05_7 fi::11_2
+Research workflow	The ten steps from idea to decision to monitoring; the organising map of this course	fi::00_3
+Residual claim	The claim on whatever remains after all fixed claims are met — the defining feature of equity	fi::01_1
+Residual claimant	Equity holders: paid last, after lenders, suppliers, employees and taxes, but own all the upside	fi::00_1
+Residual-income model	Value = book value + PV of residual income; equivalent to DCF under clean-surplus accounting	fi::06_7
+Residual income (RI)	PAT − $k_e$ × opening book value; profit above the equity charge	fi::06_7
+Restatement	Revision of previously reported figures	fi::10_2
+Retained earnings	Cumulative profits kept in the business; the bridge between the P&L and the balance sheet / Cumulative profits not paid out as dividends	fi::02_1 fi::02_4
+Retrieval practice (testing effect)	Learning by recalling from memory; produces better long-term retention than re-reading	fi::00_2
+Re-underwriting	Deciding whether you would buy the position today at this price with current knowledge	fi::11_5
+Revenue build	The driver structure that produces the revenue forecast	fi::10_3
+Revenue from operations	Sales of goods and services plus other operating revenue; excludes other income	fi::02_3
+Revenue / income	Increase in equity other than from owner contributions	fi::02_1
+Reverse book building	Delisting price discovery by shareholder tenders	fi::12_3
+Reverse DCF	Solving a DCF backwards for the growth (or margin) that makes value equal to the price / Solving a DCF backwards for the input value that makes model value equal the market price	fi::00_3 fi::06_6
+Revolver	A revolving credit facility used in models to fund any cash shortfall / A modelled short-term borrowing that draws when cash would fall below a minimum and repays when cash is surplus	fi::02_6 fi::10_1 fi::10_3
+Revolver (min_cash)	Model logic that draws short-term debt to keep cash above a floor	fi::10_5
+Right-of-use (ROU) asset	A lessee's right to use a leased asset, recognised under Ind AS 116 / Lessee's asset representing the right to use a leased item (Ind AS 116)	fi::02_4 fi::02_7
+Rights entitlement (RE)	Tradable right to subscribe to a rights issue	fi::12_3
+Rights issue / rights entitlement (RE)	Pro-rata offer of new shares to existing holders / the tradable right to subscribe	fi::01_3
+Risk-free rate	Yield on a default-free bond in the cash flows' currency; India: 10-yr G-sec	fi::06_2
+Risk reversal	Long call + short put (synthetic long with skew)	fi::11_7
+RoA tree	Decomposition of return on assets into spread, fees, opex, credit cost and tax	fi::07_1
+ROCE	(EBIT + other income) ÷ average capital employed (equity + borrowings + lease liabilities); pre-tax	fi::04_3
+ROCE (Screener)	(PBT + interest, excl. exceptional items) ÷ average (share capital + reserves + borrowings incl. leases)	fi::04_6
+ROE	PAT ÷ average shareholders' equity	fi::04_3
+ROIC	NOPAT ÷ average invested capital; post-tax, operating assets only	fi::04_3
+ROIC / WACC	Return on invested capital (after-tax operating profit ÷ capital employed in the business) / weighted average cost of capital (the blended return lenders and shareholders require). Growth creates value only if ROIC > WACC	fi::00_1
+Roll-forward	Opening balance + additions − deductions = closing balance, for a balance-sheet line / Adjusting a valuation from its date to today at the cost of equity	fi::02_6 fi::06_3 fi::06_4 fi::10_2
+RONIC	Return on new invested capital, the ROIC that matters for growth's value	fi::06_1
+Round-tripping	Circular transactions that create revenue without economic substance	fi::09_2
+Row mapping	Translating a data source's labels into the model's required rows	fi::10_5
+Royalty / brand fee	Payment by a subsidiary to its parent for technology or brand use	fi::05_6
+Royalty / technical fee	Payment by a subsidiary to its parent for brands, technology or services	fi::07_5
+RTA	Registrar and transfer agent; services mutual funds' investor records	fi::07_2
+Rule of 40	Growth % + margin % ≥ 40 as a health screen for software/platform businesses	fi::07_4
+Rule of 72	Doubling time ≈ 72 ÷ rate (%). Accurate near 8%	fi::01_5
+Running example	The fictional Kaveri Pumps and Nirmal Finance, used with fixed numbers throughout the course	fi::00_2
+Safe harbour	The disclaimer at the start of a call noting that forward-looking statements are uncertain.	fi::03_4
+Sale-and-leaseback	Selling an asset and leasing it back; converts an asset into lease cash flows	fi::09_4
+SAST	SEBI Substantial Acquisition of Shares and Takeovers Regulations, 2011 — includes 5%/2% holding disclosures (Reg 29) and pledge disclosures (Reg 31)	fi::03_1
+SAST open offer	Mandatory offer to public shareholders when an acquirer crosses 25% (or creeps more than 5% a year above 25%)	fi::01_4
+Say-do ledger	A dated record of management's quantified statements and actual outcomes. / A record of management's dated, measurable commitments and whether they were met	fi::03_4 fi::03_6
+Say-do ratio	Frequency with which management's stated guidance is delivered	fi::05_5
+Say-do table	Record of management guidance vs delivery / Guidance vs delivery record	fi::11_2 fi::11_5 fi::15_2
+Scaffold	The case folder created from the templates by tools/new_case.py	fi::15_2
+Scale economies	Falling unit costs with volume, making a challenger's cost structure uncompetitive	fi::05_3
+Scarcity premium	A higher multiple paid because few comparable listed assets exist	fi::06_5
+Scenario	A coherent set of assumptions describing one way the future could unfold	fi::06_4
+Scenario switch	A single input that selects a full set of driver values	fi::10_4
+Schedule	A calculation block for one area (working capital, PP&E, debt)	fi::10_1
+Schedule III	The Companies Act, 2013 format for financial statements; Division II for Ind AS non-financial companies	fi::02_4
+Schedule III Divisions I / II / III	Financial-statement formats for old-GAAP companies / Ind AS non-financial companies / Ind AS NBFCs	fi::02_9
+Schilit's taxonomy	Classification of shenanigans into earnings, cash-flow and key-metric manipulation	fi::09_1
+Scorecard	A structured, weighted checklist producing a comparable quality score	fi::04_7
+Screen	A quantitative filter applied to a universe of stocks	fi::11_1
+Scuttlebutt	Fisher's term for gathering information about a company from the people who deal with it	fi::05_7
+Seasonality	Predictable within-year pattern in revenue and margins (e.g., Kaveri's Q4/Q1 peak).	fi::03_4
+SEBI	Securities and Exchange Board of India, the capital-markets regulator	fi::01_4
+Secured creditor	A lender with a charge over specific assets	fi::01_1
+Securities premium	Excess of issue price over face value, held in other equity / Amount received for shares above face value; restricted use under Section 52	fi::01_1 fi::02_4
+Self-funding growth rate (g\)	The fastest growth at which pre-financing FCF stays non-negative, given margin, capex and NWC intensity	fi::04_4
+Sell-in vs sell-through	Company's sales to the channel vs the channel's sales to end customers	fi::05_7
+Sensitivity / false-positive rate	Share of true cases flagged / share of clean cases wrongly flagged	fi::09_6
+Sensitivity table	A grid of values across two inputs, holding everything else constant	fi::06_4
+Shareholder yield	(Dividends + buybacks − cash from share issues) ÷ market cap	fi::04_6
+Shareholding pattern	Quarterly breakdown of ownership by category, including pledged promoter shares (Reg 31, 21 days)	fi::03_1
+Shareholding pattern (SHP)	Quarterly breakdown of ownership by category, filed within 21 days of quarter-end	fi::01_4
+Shares outstanding	Shares issued and held by investors; in India ≈ shares issued, since bought-back shares are extinguished	fi::01_2
+Short-seller report	Published research by an investor positioned to profit from a price fall	fi::09_1
+SIP	Systematic investment plan: a fixed monthly mutual-fund investment / Systematic investment plan; recurring retail mutual-fund inflows	fi::01_4 fi::07_2
+SIP stoppage ratio	SIPs discontinued as a share of new registrations	fi::12_2
+Size / liquidity premium	Extra return demanded for small, illiquid stocks beyond CAPM	fi::06_2
+Skew	The difference between put and call implied vols at equal moneyness	fi::11_7
+Skin in the game	Management's own economic exposure to the company's outcome	fi::05_5
+Slippages	Loans newly classified as NPA in a period	fi::07_1
+SLM / WDV	Straight-line (equal charge) vs written-down value (fixed percentage of opening book value) depreciation	fi::02_7
+Sloan accruals ratio	(PAT − CFO) ÷ average total assets	fi::09_6
+Solvency	The ability to service debt (interest and principal) from earnings and cash flow over time	fi::04_5
+Spaced repetition	Reviewing material at growing intervals, just before you would forget it	fi::00_2
+Special situation	An investment driven by a corporate event (demerger, buyback, open offer, delisting, merger)	fi::00_1
+Spectrum liabilities	Deferred payments to the government for spectrum; debt-like	fi::07_6
+Split grinding unit	Cement grinding plant near markets, fed by clinker from elsewhere; shorter gestation than an integrated plant	fi::05_4
+SSSG	Same-store sales growth — revenue growth from stores open more than a year	fi::04_2
+Stage 1 / 2	Performing / significant increase in credit risk (30+ dpd) under ECL	fi::07_1
+Stage gate	A checkpoint where you decide whether the next, more expensive stage of research is justified / A decision point with a predefined question that must be answered before more time is spent	fi::00_3 fi::11_2 fi::15_1
+Standalone / consolidated	The legal parent alone / the parent plus all subsidiaries line by line	fi::02_3
+Stand-alone selling price (SSP)	Price at which an item would be sold separately; the basis for allocating a bundle's price	fi::02_2
+Standalone vs consolidated	Accounts of the listed company alone vs the group including subsidiaries / Parent-only statements vs the whole group's statements	fi::00_2 fi::02_8 fi::09_4
+Standard layout / mapping	The fixed set of model rows and the rules for placing reported lines in them	fi::10_2
+Statement of changes in equity (SOCE)	The roll-forward of every equity component from opening to closing / Primary statement reconciling opening and closing equity by component	fi::02_1 fi::02_6
+STCG / LTCG	Short-/long-term capital gains: ≤ 12 / > 12 months for listed equity	fi::11_5
+Steelman	The strongest version of the opposing argument	fi::15_4
+Stock replacement	Holding calls (or call spreads) instead of shares to cap downside	fi::11_7
+Stock split	Subdivision of shares into more shares of lower face value	fi::01_3
+Stock vs flow	A balance at an instant (balance sheet) vs an amount over a period (P&L, cash flow)	fi::02_1
+Stress test	A scenario built around a specific adverse mechanism, run through to the balance sheet	fi::10_4
+STT	Securities transaction tax	fi::11_5
+Subsidiary	A company controlled by another (board control or >50% voting power); consolidated line by line	fi::01_1
+Subsidiary / associate / joint venture	Investee that is controlled / significantly influenced (≈20–50%) / jointly controlled with rights to net assets	fi::02_8
+Substitute	A different product or technology that meets the same customer need	fi::05_2
+Sum-of-the-parts (SOTP)	Valuing each business or stake separately and summing, net of parent debt and costs	fi::06_7
+Sunk-cost fallacy	Letting past costs or effort influence a forward-looking decision	fi::11_6
+Super-cycle	An extended period of above-mid-cycle prices driven by structural demand or supply shocks	fi::07_3
+Supplier finance (reverse factoring)	A bank pays suppliers early and the buyer pays the bank later; disclosed under Ind AS 7 paras 44F–44H / Bank pays suppliers early on the company's behalf; debt presented as payables	fi::02_5 fi::04_5 fi::09_4
+Survivorship bias	Drawing conclusions from survivors only, ignoring the failures that dropped out of the sample	fi::00_1
+Sustainable growth rate	ROE × retention ratio: growth fundable from retained earnings at constant leverage	fi::04_6
+Swap ratio	Acquirer shares received per target share in a merger	fi::12_3
+Switching costs	Value a customer loses by moving to a competitor	fi::05_3
+T+1	Settlement on the next working day after the trade. It makes the ex-date the same as the record date	fi::01_4
+Take rate	A platform's revenue as a percentage of the transaction value it intermediates / Fee as a share of transaction value or volume	fi::05_1 fi::07_2 fi::07_4
+TAM / SAM / SOM	Total addressable / serviceable addressable / serviceable obtainable market	fi::05_2
+Target price	A broker's 12-month price estimate, usually a multiple times forward earnings	fi::03_5
+Target weights	The long-run intended debt/equity mix at market values	fi::06_2
+Tax base	The amount attributed to an asset or liability for tax purposes	fi::02_8
+Tax-loss harvesting	Realising losses to offset taxable gains	fi::11_5
+Tax shield	The reduction in tax from deductible interest	fi::06_2
+Template	A fixed set of questions in document form, used for every case so that cases can be compared	fi::15_2
+Temporary vs permanent accounts	Income-statement accounts reset each period / balance-sheet accounts carried forward	fi::02_1
+Tender-offer buyback	Buyback at a fixed price with proportional acceptance; 15% reserved for small shareholders / Fixed-price, proportional buyback with a 15% small-shareholder reservation	fi::05_5 fi::12_3
+TER	Total expense ratio charged to a mutual-fund scheme; capped by SEBI in slabs	fi::07_2
+Terminal state	The mature economics (growth, margin, capital intensity) the valuation assumes the company reaches	fi::07_4
+Terminal value	Value at the end of the explicit period of all subsequent cash flows	fi::06_3
+Terminal value share	PV of terminal value ÷ enterprise value	fi::06_4
+Term loan / working-capital loan	Long-term secured bank loan for capex / revolving short-term bank facility for inventories and receivables	fi::01_3
+Terms of trade	Credit period, guarantees, advances and other non-price terms of a sale	fi::05_4
+TERP	Theoretical ex-rights price: $(rP_0 + S)/(r + 1)$	fi::01_3
+Thesis	The three claims, each with a number and a source, on which the case rests	fi::11_3
+Thesis-breaker	Pre-committed evidence that would prove the thesis wrong / An observable, dated outcome that would falsify the thesis and trigger exit	fi::00_3 fi::11_3 fi::11_5 fi::15_2
+Thesis variable	The driver a position's thesis depends on; the true unit of diversification	fi::11_4
+Ticker suffix	.NS (NSE) or .BO (BSE) appended to a symbol for Yahoo-style data sources	fi::00_2
+Tie-out	Recomputing a reported number from its inputs to confirm the definition and the data / Rebuilding one statement from the others and reconciling the differences	fi::00_2 fi::02_6 fi::10_2
+Timebox	A fixed time budget for a task	fi::11_2
+Timing identity	Over an asset's life, total expense equals total cash spent; accounting choices only move the timing	fi::02_7
+Tobin's q	Market value of assets ÷ replacement cost; q > 1 encourages building, q < 1 favours buying	fi::05_4
+Top-down / bottom-up	Investing from macro to stocks / from stocks with macro as input	fi::12_1
+Tornado chart	A ranked bar chart of value sensitivity to each input (see 10.4) / Ranked horizontal bars showing each driver's value swing across its range	fi::06_4 fi::10_4
+Total comprehensive income	PAT + OCI; the amount by which equity grows before dividends and share issues	fi::02_3
+Total Return Index (TRI)	An index version that assumes dividends are reinvested; the fair benchmark for performance	fi::00_1
+Trade receivable	Unconditional right to consideration (only time must pass)	fi::02_2
+Trade working capital	Inventories + receivables − payables	fi::04_4
+Trading window	Period (quarter-end until 48 h after results) when designated persons cannot trade	fi::01_4
+Trailing / forward	Multiples on the last 12 months' actuals / the next 12 months' estimates	fi::06_5
+Transaction price	Consideration the company expects to be entitled to, excluding amounts collected for third parties (e.g. GST)	fi::02_2
+Transmission	The pass-through of policy rates to lending and deposit rates	fi::12_1
+Treasury-stock method	Diluted share count from options: shares issued minus shares repurchasable with the exercise proceeds / Diluted share count from options net of shares repurchasable with exercise proceeds	fi::06_3 fi::10_3
+Treasury-stock method (TSM)	Dilution from options = $n(1 - K/P)$ for in-the-money options	fi::01_2
+Triage	A 3-hour read to state a variant perception and payoff asymmetry / A 3-hour read to find a variant perception, or fail to	fi::11_2 fi::15_1
+Triage / deep dive	A ~3-hour first pass over steps 3–6 / the full ~30-hour research of steps 3–8	fi::00_3
+Trial balance	List of all ledger balances; debits must equal credits (a checksum, not a proof of correctness)	fi::02_1
+Trigger	A price and an evidence condition that must both hold before buying	fi::15_3
+TSR	Total shareholder return = price change + dividends ≈ EPS growth + P/E change + dividend yield	fi::01_5
+TTM	Trailing twelve months: the sum of the last four quarters	fi::04_1
+TTM EPS	Sum of the last four quarters' EPS; the right trailing measure for seasonal businesses	fi::04_6
+Tunnelling	Transferring value from a listed company to entities owned more heavily by its controller	fi::01_1
+Unbilled revenue / contract asset	Revenue recognised but not yet invoiced	fi::09_2
+Unit economics	The revenue, cost and capital of one representative unit (product, store, customer, loan)	fi::05_1
+Unmodified / qualified / adverse / disclaimer	The four audit opinions, in rising order of severity	fi::03_2
+UPSI	Unpublished price-sensitive information; trading on it is insider trading under SEBI rules / Unpublished price-sensitive information. Trading on it is insider trading	fi::00_1 fi::01_4 fi::05_7
+Upside/downside ratio	Probability-weighted gain ÷ probability-weighted loss from the current price	fi::06_8
+Useful life	The period over which an asset is expected to be used; Schedule II gives indicative lives	fi::02_7
+Useful life / depreciation method	Period and pattern over which an asset's cost is expensed	fi::09_3
+US GAAP / ASC	US generally accepted accounting principles, organised in the FASB's Accounting Standards Codification	fi::02_9
+VAHAN / SIAM / FADA	Vehicle registration database / manufacturers' wholesale data / dealers' retail data	fi::05_7
+Valuation band	Historical range of an index multiple with median and dispersion	fi::12_2
+Value chain	The sequence of activities from raw material to end customer, and who captures profit at each step	fi::05_1
+Value decomposition	Attribution of value to periods and to individual assumptions	fi::06_3
+Value-driver formula	$V = \text{NOPAT}_1(1 − g/\text{ROIC})/(\text{WACC} − g)$	fi::06_1
+Value-driver terminal	$\text{NOPAT}_{n+1}(1 − g/\text{RONIC})/(\text{WACC} − g)$	fi::06_3
+Value in use (VIU)	PV of future pre-tax cash flows from an asset or CGU, at a pre-tax discount rate	fi::02_7
+Value multiple	$V/\text{NOPAT}$; equals $1/\text{WACC}$ when ROIC = WACC	fi::06_1
+Value of new business (VNB)	PV of expected profits from policies sold in a period	fi::07_2
+Value trap	A stock that looks cheap on multiples but stays cheap or falls because the business is deteriorating	fi::00_1
+Variable consideration	Price elements that depend on future events: rebates, bonuses, penalties, returns	fi::02_2
+Variable cost	Cost that moves proportionally with volume (materials, freight, commissions)	fi::04_2
+Variant perception	The specific point where your view differs from what the price implies, and why you think you are right / A well-founded view that differs from the expectation embedded in the price	fi::00_3 fi::06_6 fi::11_3
+Version control	Tracking changes to a model over time (git for code; versioned files and change logs for Excel)	fi::10_1
+Virtual environment (venv)	An isolated Python installation for a project, so package versions don't clash	fi::00_2
+VNB margin	VNB ÷ annualised premium equivalent (APE)	fi::07_2
+Volatility drag	Gap between arithmetic and geometric mean returns, ≈ $\sigma^2/2$	fi::01_5
+Volume effect	Revenue change from selling more or fewer units, at base-year average price	fi::04_1
+WACA	Weighted average cost of acquisition of shares by a selling shareholder, disclosed in the offer document	fi::03_5
+WACC	Weighted average of the after-tax cost of debt and cost of equity at target market weights	fi::06_2
+Warrant	A company-issued option to subscribe to new shares at a fixed price / Right to subscribe to a share at a fixed price; in India ≥25% paid upfront, ≤18 months	fi::01_2 fi::01_3
+Watchlist	Ideas that passed research but await a price or event	fi::11_1
+Watchlist deep dive	A deep dive whose output is a buy price and evidence trigger, not a purchase; recorded as such to avoid drift	fi::15_3
+Watchlist / re-look price / re-look facts	A company you have researched but not bought / the price that reopens the case / the evidence that reopens it	fi::00_3
+Watchlist trigger	A pre-set price or event at which a decision is re-examined	fi::06_8
+Weekly expiry	Index option contracts expiring weekly; the focus of SEBI's 2024–25 curbs	fi::07_2
+Weighted-average shares	Share count weighted by time outstanding in the period; the basic-EPS denominator	fi::01_2
+Whistle-blower / vigil mechanism	Internal reporting channel for fraud; Companies Act s.177(9)	fi::09_1
+Window dressing	Arranging year-end balances (cash, payables) to look better than the year's average	fi::09_4
+Working-capital change	Cash absorbed (or released) by changes in inventories, receivables, payables and other operating items	fi::02_5
+Write-off	Removal of an uncollectible loan from the book	fi::07_1
+XIRR	IRR for dated, irregular cash flows, using $(d_i - d_0)/365$ year fractions	fi::01_5
+Yield / cost of funds	Interest income ÷ average loans; interest expense ÷ average borrowings (or deposits)	fi::07_1
+YoY / QoQ	Growth versus the same period last year / versus the previous period	fi::04_1
+YoY / QoQ / YTD / TTM	Year-on-year; quarter-on-quarter (sequential); year-to-date; trailing twelve months.	fi::03_4
+Z′ / Z″	Altman variants for private companies / non-manufacturers and emerging markets	fi::09_6
